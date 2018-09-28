@@ -1,0 +1,15 @@
+{
+  "gitbook": "3.x.x",
+  "title": "Lab Manual",
+  "plugins": [
+    "bibtex-citations-and-references",
+"downloadpdf"
+],
+  "pluginsConfig": {
+    "downloadpdf": {
+      "base": "https://github.com/jmonc/BNLM/pdf.pdf",
+      "label": "Download PDF",
+      "multilingual": false
+    }
+  }
+}
