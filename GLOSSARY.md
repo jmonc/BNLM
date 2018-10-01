@@ -1,2 +1,2 @@
 ## book
-Something you read from
+We are able to add a glossary to define terms if required.

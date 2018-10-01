@@ -1,3 +1,5 @@
+#Animal Handling
+
 ####Objectives:
 *	To learn about animal laboratory safety
 *	To learn about respectful use on animals in a lab setting
@@ -49,7 +51,3 @@ Create a dosage chart for rats weighting between 300 and 400g in 10g intervals. 
 
 #### References
 Canadian Council of Animal Care (1993) Guide to the Care and Use of Experimental Animals, Volume 1 (2nd Ed). http://www.ccac.ca/Documents/Standards/Guidelines/Experimental_Animals_Vol1.pdf
-
-
-
-{% references %} {% endreferences %}

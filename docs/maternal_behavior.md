@@ -1,3 +1,5 @@
+# Maternal Behavior
+
 ####Objectives:
 *	To observe and describe a number of maternal behaviors in the female rat.
 *	Compare the behavior of virgin female rats to the behavior of mother rats with respect to the pups.  

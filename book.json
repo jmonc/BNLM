@@ -1,13 +1,16 @@
 {
   "gitbook": "3.x.x",
   "title": "Lab Manual",
+  "structure": {
+       "readme": "intro.md"
+   },
   "plugins": [
     "bibtex-citations-and-references",
 "downloadpdf"
 ],
   "pluginsConfig": {
     "downloadpdf": {
-      "base": "https://github.com/jmonc/BNLM/pdf.pdf",
+      "base": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1439-0396.2007.00778.x",
       "label": "Download PDF",
       "multilingual": false
     }

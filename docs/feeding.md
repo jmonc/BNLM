@@ -1,3 +1,5 @@
+# Brain Stimulation: Feeding
+
 ####Objectives:
 *	To learn about a surgical model that elicits feeding behavior.
 *	To quantify feeding in rats following activation or sham activation of the lateral hypothalamus.

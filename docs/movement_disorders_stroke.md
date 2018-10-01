@@ -1,3 +1,5 @@
+# Movement Disorders: Stroke
+
 ####Objectives:
 *	To observe a pial strip surgery as a model of stroke.
 *	To test rats with a pial strip of the caudal forelimb area of the motor cortex on a number of behavioral tests.

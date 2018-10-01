@@ -1,3 +1,5 @@
+# Learning and Memory: Spatial
+
 ####Objectives:
 *	To learn about different types of spatial navigation, and the tasks that test them.
 *	To gain experience with the Morris Water Maze and Exploration procedures.

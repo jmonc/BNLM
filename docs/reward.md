@@ -1,3 +1,5 @@
+# Brain Stimulation: Reward
+
 ####Objectives:
 *	To observe a model of addiction in the rat
 *	To examine the role of dopamine in this reward model

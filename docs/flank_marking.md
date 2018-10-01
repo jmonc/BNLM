@@ -1,3 +1,5 @@
+# Brain Stimulation: Flank Marking
+
 ####Objectives:
 *	To discover how a complex behavior can be triggered by minute application of specific chemicals to discrete brain regions.
 *	To learn about an animal model of Obsessive Compulsive Disorder

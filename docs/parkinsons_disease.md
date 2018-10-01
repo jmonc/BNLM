@@ -1,3 +1,5 @@
+# Movement Disorders: Parkinson's Disease
+
 ####Objectives:
 *	To observe a 6-hydroxydopamine (6-OHDA) neurotoxic lesion surgery as a model of Parkinson’s Disease.
 *	To test rats with 6-OHDA neurotoxic lesion of the nigostriatal system on a number of behavioral tests.

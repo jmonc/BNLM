@@ -1,3 +1,5 @@
+# Learning and Memory: Conditioned Avoidance
+
 ####Objectives:
 *	To condition a rat to avoid a sweet flavor using a powerful one-trial conditioned taste avoidance procedure.
 

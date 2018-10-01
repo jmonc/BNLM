@@ -1,3 +1,5 @@
+# Brain Stimulation: Drinking
+
 ####Objectives:
 *	To learn about a surgical model that elicits drinking behavior.
 *	To quantify drinking in rats following intracerebroventricular injection of a dipsogenic substance.
