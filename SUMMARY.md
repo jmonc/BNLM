@@ -1,6 +1,5 @@
 # Summary
 
-### Introduction
 * [Biological Neuroscience Lab manual](intro.md)
 
 * [List of Laboratory Exercises](/docs/README.md)
