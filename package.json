@@ -2,5 +2,8 @@
     "scripts": {
         "docs:prepare": "gitbook install",
         "docs:watch": "npm run docs:prepare && gitbook serve"
+    },
+    "dependencies": {
+        "lodash": "^4.17.11"
     }
 }
