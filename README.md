@@ -1,5 +1,5 @@
 # BNLM documentation
-This is the source code document for the Behavioral Neuroscience Lab Manual repository. It is presented online  [here](https://behavioural-neuroscience-uofc.gitbook.io/lab-manual) presented using GitBook.
+This is the source code document for the Behavioral Neuroscience Lab Manual repository. It is available online  [here](https://behavioural-neuroscience-uofc.gitbook.io/lab-manual) presented using GitBook.
 
 This is a small project which seeks to provide open access resources for Universities in Canada and further afield. Content is hosted on GitHub.
 
@@ -12,3 +12,9 @@ The simplest way is to simply select "Clone or Download" and then select "Downlo
 ![download button](img/download.png)
 
  Upon extracting this file the PDF and word files may be found in the "Offline_documentation" folder.
+
+
+ <Button.Toolbar>
+ <Button>Button button</Button>
+ <Button href="#">Link button</Button>
+ </Button.Toolbar>

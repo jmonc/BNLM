@@ -10,7 +10,7 @@
 ],
   "pluginsConfig": {
     "downloadpdf": {
-      "base": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1439-0396.2007.00778.x",
+      "base": "Test file [here](https://github.com/jmonc/BNLM/raw/master/Offline_Documentation/BNLM_complete.pdf",
       "label": "Download PDF",
       "multilingual": false
     }
