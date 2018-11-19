@@ -7,3 +7,6 @@ This is a simple manual which outlines the content currently being provided by t
 In the mean time, the repository on GitHub has the full pdf format of this work as well as the master word document. Simply follow the following link and follow the instructions to access this information.
 
 [BNLM on GitHub](https://github.com/jmonc/BNLM)
+
+
+Note we can create a glossary which students can use.

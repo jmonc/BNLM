@@ -21,6 +21,12 @@ _Test:_ **Day 1:** 4-6 hours before the lab, remove the waterbottle from the rat
 * Prepare a graph of drinking time for each bottle on day 2 for each group.  Run a statistical test \(2 way ANOVA, taste X treatment\) to explore the findings
 
 ## References:
+[Jacobsen PB, Bovbjerg DH, Schwartz MD, Andrykowski MA, Futterman AD, Gilewski T, Norton L, Redd WH (1993) Formation of food aversions in cancer patients receiving repeated infusions of chemotherapy. Behav Res Ther, 31(8):739-48.](https://www.ncbi.nlm.nih.gov/pubmed/8257405)
 
-Jacobsen PB, Bovbjerg DH, Schwartz MD, Andrykowski MA, Futterman AD, Gilewski T, Norton L, Redd WH \(1993\) Formation of food aversions in cancer patients receiving repeated infusions of chemotherapy. Behav Res Ther, 31\(8\):739-48. Parker, LA \(2003\) Taste avoidance and taste aversion: Evidence for two different processes. Learning & Behavior, 31\(2\):165-172. Spector AC \(2005\) Taste. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto. Swank MW, Schafe GE, Bernstein IL \(1995\) c-Fos induction in response to taste stimuli previously paired with amphetamine or LiC1 during taste aversion learning. Brain Res, 673:251-261. Welzl H, D’Adamo P, Lipp H-P \(2001\) Conditioned taste aversion as a learning and memory paradigm. Behav Brain Res, 125:205–213.
+[Parker, LA (2003) Taste avoidance and taste aversion: Evidence for two different processes. Learning & Behavior, 31(2):165-172.](https://www.ncbi.nlm.nih.gov/pubmed/12882375)
 
+[Spector AC (2005) Taste. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+
+[Swank MW, Schafe GE, Bernstein IL (1995) c-Fos induction in response to taste stimuli previously paired with amphetamine or LiC1 during taste aversion learning. Brain Res, 673:251-261.](https://www.ncbi.nlm.nih.gov/pubmed/7606439)
+
+[Welzl H, D’Adamo P, Lipp H-P (2001) Conditioned taste aversion as a learning and memory paradigm. Behav Brain Res, 125:205–213.](https://www.ncbi.nlm.nih.gov/pubmed/11682112)

@@ -46,5 +46,6 @@ Assignment \#2: If the lab can be run over a number of days, prepare graphs for 
 
 ## References:
 
-Kleim JA, Hogg TM, VandenBerg PM, Cooper NR, Bruneau R, Remple M \(2004\) Cortical synaptogenesis and motor map reorganization occur during late, but not early, phase of motor skill learning. J Neurosci, 24\(3\):628-33. Whishaw IQ \(2005\) Prehension. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto.
+[Kleim JA, Hogg TM, VandenBerg PM, Cooper NR, Bruneau R, Remple M (2004) Cortical synaptogenesis and motor map reorganization occur during late, but not early, phase of motor skill learning. *J Neurosci*, 24(3):628-33.](https://www.ncbi.nlm.nih.gov/pubmed/14736848)
 
+[Whishaw IQ (2005) Prehension. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)

@@ -23,5 +23,6 @@ _Follow-up:_ In any surgical intervention, histological confirmation of the effe
 
 ## References:
 
-Clifton PG \(2005\) Eating. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto. Hettes SR, Gonzaga WJ, Heyming TW, Nguyen JK, Perez S, Stanley BG \(2010\) Stimulation of lateral hypothalamic AMPA receptors may induce feeding in rats. Brain Res, 1346:112-20.
+[Clifton PG (2005) Eating. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
 
+[Hettes SR, Gonzaga WJ, Heyming TW, Nguyen JK, Perez S, Stanley BG (2010) Stimulation of lateral hypothalamic AMPA receptors may induce feeding in rats. Brain Res, 1346:112-20.](https://www.ncbi.nlm.nih.gov/pubmed/20580634)

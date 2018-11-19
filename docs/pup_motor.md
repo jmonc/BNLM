@@ -31,5 +31,7 @@ _Variations_
 
 ## References:
 
-Alberts JR \(2005\) Infancy. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto. Altman J, Sudarshan K \(1975\) Postnatal development of locomotion in the laboratory rat. Anim Behav, 23\(4\):896-920.
 
+[Alberts JR (2005) Infancy. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+
+[Altman J, Sudarshan K (1975) Postnatal development of locomotion in the laboratory rat. Anim Behav, 23(4):896-920.](https://www.ncbi.nlm.nih.gov/pubmed/1200422)

@@ -40,5 +40,8 @@ For describing proceptive and copulatory behavior, make careful notes about the 
 
 ## References:
 
-Erskine MS \(1989\) Solicitation behavior in the estrous female rat: A review. Horm Behav, 23: 473-502. Jenkins WJ, Becker JB \(2001\) Role of the striatum and nucleus accumbens in paced copulatory behavior in the female rat. Behav Brain Res, 121\(1-2\):119-28. Jenkins WJ and Becker JB \(2005\) Sex. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto.
+[Erskine MS \(1989\) Solicitation behavior in the estrous female rat: A review. Horm Behav, 23: 473-502. Jenkins WJ, Becker JB \(2001\)](https://www.ncbi.nlm.nih.gov/pubmed/2691387)
 
+[Jenkins WJ, Becker JB (2001) Role of the striatum and nucleus accumbens in paced copulatory behavior in the female rat. Behav Brain Res, 121(1-2):119-28.](https://www.ncbi.nlm.nih.gov/pubmed/11275289)
+
+[Jenkins WJ and Becker JB (2005) Sex. In: IQ Whishaw and B Kolb (Eds), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)

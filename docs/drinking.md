@@ -27,5 +27,6 @@ _Variations:_
 
 ## References:
 
-Harland D, Gardiner SM, Bennett T \(1988\) Cardiovascular and dipsogenic effects of angiotensin II administered i.c.v. in Long-Evans and Brattleboro rats. Brain Res, 455\(1\):58-64. Rowland NE \(2005\) Drinking. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto.
+[Harland D, Gardiner SM, Bennett T (1988) Cardiovascular and dipsogenic effects of angiotensin II administered i.c.v. in Long-Evans and Brattleboro rats. Brain Res, 455(1):58-64.](https://www.ncbi.nlm.nih.gov/pubmed/3416193)
 
+[Rowland NE (2005) Drinking. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)

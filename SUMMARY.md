@@ -1,6 +1,8 @@
 # Table of contents
 
+
 * [Biological Neuroscience Lab manual](intro.md)
+* [How to contribute](docs/how_to_edit.md)
 * [List of Laboratory Exercises](docs/README.md)
   * [A - Animal Handling](docs/animal_handling.md)
   * [B - Sexual Behavior](docs/sexual_behavior.md)
@@ -23,4 +25,3 @@
   * [Scoring Rubric](appendix/rubric.md)
   * [General Surgery](appendix/surgery.md)
   * [Stereotaxic Surgery](appendix/stereotaxic_surgery.md)
-

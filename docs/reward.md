@@ -26,5 +26,10 @@ _Follow-up:_ In any surgical intervention, histological confirmation of the effe
 
 ## References:
 
-Carlezon WA Jr, Chartoff EH \(2007\) Intracranial self-stimulation \(ICSS\) in rodents to study the neurobiology of motivation. Nat Protoc, 2\(11\):2987-95. Koob GF \(2000\) Animal models of addiction. In: FE Bloom & DJ Kupfer \(Eds\) Psychopharmacology - 4th Generation of Progress. Lippincott Williams & Wilkins, New York [http://www.acnp.org/g4/GN401000072/Default.htm](http://www.acnp.org/g4/GN401000072/Default.htm) Panagis G, Spyraki C \(1996\) Neuropharmacological evidence for the role of dopamine in ventral pallidum self.stimulation. Psychopharmacology, 123:280 288. Wise RA \(1996\) Addictive drugs and brain stimulation reward. Annu Rev Neurosci, 19:319-40.
+[Carlezon WA Jr, Chartoff EH (2007) Intracranial self-stimulation (ICSS) in rodents to study the neurobiology of motivation. Nat Protoc, 2(11):2987-95.](https://www.ncbi.nlm.nih.gov/pubmed/18007634)
 
+[Koob GF (2000) Animal models of addiction. In: FE Bloom & DJ Kupfer (Eds) Psychopharmacology - 4th Generation of Progress. Lippincott Williams & Wilkins, New York.](http://www.acnp.org/g4/GN401000072/Default.htm)
+
+[Panagis G, Spyraki C (1996) Neuropharmacological evidence for the role of dopamine in ventral pallidum self.stimulation. Psychopharmacology, 123:280 288.](https://link.springer.com/article/10.1007/BF02246582)
+
+[Wise RA (1996) Addictive drugs and brain stimulation reward. Annu Rev Neurosci, 19:319-40.](https://www.ncbi.nlm.nih.gov/pubmed/8833446)

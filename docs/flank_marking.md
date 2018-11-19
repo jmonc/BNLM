@@ -27,5 +27,10 @@ _Follow-up:_ In any surgical intervention, histological confirmation of the effe
 
 * Prepare a graph of the results.  Perform a statistical analysis \(Student’s t-test\) to determine if the two groups \(saline or clormipramine\) differed significantly in the amount of flank marking behavior exhibited after the injection of AVP.
 
-Bamshad M, Albers HE \(1996\) Neural circuitry controlling vasopressin-stimulated scent marking in Syrian hamsters \(Mesocricetus auratus\). J Comp Neurol, 369\(2\):252-63. Ferris CF, Albers HE, Wesolowski SM, Goldman BD, Luman SE \(1984\) Vasopressin injected into the hypothalamus triggers a stereotypic behavior in golden hamsters. Science, 224\(4648\):521-3. Ferris CF, Rasmussen MF, Messenger T, Koppel G \(2001\) Vasopressin-dependent flank marking in golden hamsters is suppressed by drugs used in the treatment of obsessive-compulsive disorder. BMC Neurosci, 2:10
+## references
 
+[Bamshad M, Albers HE (1996) Neural circuitry controlling vasopressin-stimulated scent marking in Syrian hamsters (Mesocricetus auratus). J Comp Neurol, 369(2):252-63.](https://www.ncbi.nlm.nih.gov/pubmed/8726998)
+
+[Ferris CF, Albers HE, Wesolowski SM, Goldman BD, Luman SE (1984) Vasopressin injected into the hypothalamus triggers a stereotypic behavior in golden hamsters. Science, 224(4648):521-3.](https://www.ncbi.nlm.nih.gov/pubmed/6538700)
+
+[Ferris CF, Rasmussen MF, Messenger T, Koppel G (2001) Vasopressin-dependent flank marking in golden hamsters is suppressed by drugs used in the treatment of obsessive-compulsive disorder. BMC Neurosci, 2:10](https://www.ncbi.nlm.nih.gov/pubmed/11545675)

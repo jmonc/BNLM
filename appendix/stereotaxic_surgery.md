@@ -67,5 +67,8 @@ Neurotoxic lesions are useful models for understanding how specific brain region
 
 ## References:
 
-Ben V, Blin O, Brugeurolle B \(1999\). Time-dependent striatal dopamine depletion after injection of 6-hydroxydopamine in the rat. Comparison of single bilateral and double bilateral lesions. J Pharmacol, 51:1405–1408. Cooley RK and Vanderwolf CH \(1990\). Stereotaxic Surgery in The Rat: A Photographic Series. A.J. Kirbey Co.: London, ON, Canada. Geiger BM, Frank LE, Caldera-Siu AD and Pothos EN \(2008\). Survivable stereotaxic surgery in rodents. JoVE, 20. [http://www.jove.com/index/Deta](http://www.jove.com/index/Deta)
+[Ben V, Blin O, Brugeurolle B (1999). Time-dependent striatal dopamine depletion after injection of 6-hydroxydopamine in the rat. Comparison of single bilateral and double bilateral lesions. J Pharmacol, 51:1405–1408.](https://www.ncbi.nlm.nih.gov/pubmed/10678495)
 
+[Cooley RK and Vanderwolf CH (1990). *Stereotaxic Surgery in The Rat: A Photographic Series.* A.J. Kirbey Co.: London, ON, Canada.](https://trove.nla.gov.au/work/18572975)
+
+[Geiger BM, Frank LE, Caldera-Siu AD and Pothos EN (2008). Survivable stereotaxic surgery in rodents. JoVE, 20.](http://www.jove.com/index/Details.stp?ID=880)

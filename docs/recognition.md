@@ -53,5 +53,10 @@ Object recognition is a model of working memory. It is a useful model for unders
 
 ## References:
 
-Mumby DG, Pinel JPJ, Wood ER \(1990\). Nonrecurring-items delayed nonmatching-to-sample in rats: A new paradigm for testing nonspatial working memory. Psychobiology, 18\(3\): 321-326. Mumby DG \(2001\) Perspectives on object-recognition memory following hippocampal damage: lessons from studies in rats. Behav Brain Res, 127\(1-2\):159-81. Mumby DG, Gaskin S, Glenn MJ, Schramek TE, Lehmann H \(2002\) Hippocampal damage and exploratory preferences in rats: memory for objects, places, and contexts. Learn Mem, 9\(2\):49-57. Mumby DG \(2005\) Object Recognition. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto.
+[Mumby DG, Pinel JPJ, Wood ER (1990). Nonrecurring-items delayed nonmatching-to-sample in rats: A new paradigm for testing nonspatial working memory. Psychobiology, 18(3): 321-326.](https://link.springer.com/article/10.3758/BF03327250)
 
+[Mumby DG (2001) Perspectives on object-recognition memory following hippocampal damage: lessons from studies in rats.  Behav Brain Res, 127(1-2):159-81.](https://www.ncbi.nlm.nih.gov/pubmed/11718890)
+
+[Mumby DG, Gaskin S, Glenn MJ, Schramek TE, Lehmann H (2002) Hippocampal damage and exploratory preferences in rats: memory for objects, places, and contexts.  Learn Mem, 9(2):49-57.](https://www.ncbi.nlm.nih.gov/pubmed/11992015)
+
+[Mumby DG (2005) Object Recognition. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)

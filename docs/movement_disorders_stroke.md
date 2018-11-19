@@ -24,5 +24,9 @@ _Follow-up:_ In any surgical intervention, histological confirmation of the effe
 
 ## References:
 
-Howells DW, Porritt MJ, Rewell SS, O'Collins V, Sena ES, van der Worp HB, Traystman RJ, Macleod MR \(2010\) Different strokes for different folks: the rich diversity of animal models of focal cerebral ischemia. J Cereb Blood Flow Metab, 30\(8\):1412-31. Kolb B \(2005\) Neurological Models. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto. Whishaw IQ, Alaverdashvili M, Kolb B \(2008\) The problem of relating plasticity and skilled reaching after motor cortex stroke in the rat. Behav Brain Res, 192\(1\):124-36.
+[Howells DW, Porritt MJ, Rewell SS, O'Collins V, Sena ES, van der Worp HB, Traystman RJ, Macleod MR (2010) Different strokes for different folks: the rich diversity of animal models of focal cerebral ischemia. J Cereb Blood Flow Metab, 30(8):1412-31.](https://www.ncbi.nlm.nih.gov/pubmed/20485296)
 
+
+[Kolb B (2005) Neurological Models. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+
+[Whishaw IQ, Alaverdashvili M, Kolb B (2008) The problem of relating plasticity and skilled reaching after motor cortex stroke in the rat. Behav Brain Res, 192(1):124-36.](https://www.ncbi.nlm.nih.gov/pubmed/18282620)

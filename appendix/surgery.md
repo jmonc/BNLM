@@ -82,5 +82,24 @@ Although a single dose of an injectable anesthetic is typically sufficient for a
 
 ## References:
 
-Canadian Council on Animal Care \(1993\). Guide to the Care and Use of Experimental Animals. Vol 1 \(2nd edition\), Ottawa: CCAC. Cooper DM, DeLong D, Gillett CS \(1997\). Analgesic efficacy of acetaminophen and buprenorphine administered in the drinking water of rats. Contemp Top Lab Anim, 36 \(3\): 58-62. Flecknell PA \(1984\). The relief of pain in laboratory animals. Lab Anim, 18: 147-160. Jacobson C \(2000\). Adverse effects on growth rates in rats caused by buprenorphine administration. Lab Anim, 34: 202-206. Jenkins WL \(1987\). Pharmacologic aspects of analgesic drugs in animals: An Overview. J Am Vet Med Assoc, 191\(10\): 1231-1239. Lichtenberger M, Ko J \(2007\). Anesthesia and analgesia for small mammals and birds. Vet Clin Exot Anim, 10: 293–315 Trevor AJ, Miller RD, \(1992\). General Anesthetics. In: B.G. Katzung, \(ed\) Basic and Clinical Pharmacology \(5th ed\). Toronto: Prentice Hall Canada Inc. Waynforth HB \(1980\). Experimental and Surgical Technique in the Rat. New York: Academic Press. Wixson SK, White WJ, Hughes HC Jr, Lang CM, Marshall WK \(1987a\). A comparison of pentobarbital, fentanyl-droperidol, ketamine-xylazine and ketamine-diazepam anesthesia in adult male rats. Laboratory Animal Science, 37\(6\): 726-730. Wixson SK, White WJ, Hughes HC Jr, Marshall WK, Lang CM \(1987b\). The effects of pentobarbital, fentanyl-droperidol, ketamine-xylazine and ketamine-diazepam on noxious stimulus perception in adult male rats. Laboratory Animal Science, 37\(6\): 731-735. Yashpal K, Katz J, Coderre TJ \(1996\). Effects of preemptive or postinjury intrathecal local anesthesia on persistent nociceptive responses in rats. Anesthesiology, 84: 1119-1128.
+[Canadian Council on Animal Care (1993). *Guide to the Care and Use of Experimental Animals.* Vol 1 (2nd edition), Ottawa: CCAC.](https://www.ccac.ca/Documents/Standards/Guidelines/Experimental_Animals_Vol1.pdf)
 
+[Cooper DM, DeLong D, Gillett CS (1997). Analgesic efficacy of acetaminophen and buprenorphine administered in the drinking water of rats. Contemp Top Lab Anim, 36 (3): 58-62.](https://www.ncbi.nlm.nih.gov/pubmed/16450956)
+
+[Flecknell PA (1984). The relief of pain in laboratory animals. Lab Anim, 18: 147-160.](https://www.ncbi.nlm.nih.gov/pubmed/6146743)
+
+[Jacobson C (2000).  Adverse effects on growth rates in rats caused by buprenorphine administration. Lab Anim, 34: 202-206.](https://www.ncbi.nlm.nih.gov/pubmed/10817460)
+
+[Jenkins WL (1987). Pharmacologic aspects of analgesic drugs in animals: An Overview. J Am Vet Med Assoc, 191(10): 1231-1239.](https://www.ncbi.nlm.nih.gov/pubmed/3319984)
+
+[Lichtenberger M, Ko J (2007). Anesthesia and analgesia for small mammals and birds. Vet Clin Exot Anim, 10: 293–315](https://www.ncbi.nlm.nih.gov/pubmed/17577554)
+
+[Trevor AJ, Miller RD, (1992). General Anesthetics. In: B.G. Katzung, (ed) *Basic and Clinical Pharmacology* (5th ed). Toronto: Prentice Hall Canada Inc.](sbmu.ac.ir/uploads/Katzung_2012_12th_edition.pdf)
+
+[Waynforth HB (1980). *Experimental and Surgical Technique in the Rat.* New York: Academic Press.](https://catalogue.nla.gov.au/Record/1317336)
+
+[Wixson SK, White WJ, Hughes HC Jr, Lang CM, Marshall WK (1987a). A comparison of pentobarbital, fentanyl-droperidol, ketamine-xylazine and ketamine-diazepam anesthesia in adult male rats. Laboratory Animal Science, 37(6): 726-730.](https://www.ncbi.nlm.nih.gov/pubmed/3437748)
+
+[Wixson SK, White WJ, Hughes HC Jr, Marshall WK, Lang CM (1987b). The effects of pentobarbital, fentanyl-droperidol, ketamine-xylazine and ketamine-diazepam on noxious stimulus perception in adult male rats. Laboratory Animal Science, 37(6): 731-735.](https://www.ncbi.nlm.nih.gov/pubmed/3437750)
+
+[Yashpal K, Katz J, Coderre TJ (1996). Effects of preemptive or postinjury intrathecal local anesthesia on persistent nociceptive responses in rats. Anesthesiology, 84: 1119-1128.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3972946/)

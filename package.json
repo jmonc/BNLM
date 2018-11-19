@@ -1,9 +1,11 @@
 {
-    "scripts": {
-        "docs:prepare": "gitbook install",
-        "docs:watch": "npm run docs:prepare && gitbook serve"
-    },
-    "dependencies": {
-        "lodash": "^4.17.11"
-    }
+  "scripts": {
+    "docs:prepare": "gitbook install",
+    "docs:watch": "npm run docs:prepare && gitbook serve"
+  },
+  "dependencies": {
+    "gitbook-plugin-bibtex-citations-and-references": "^0.10.4",
+    "gitbook-plugin-downloadpdf": "^1.0.3",
+    "lodash": "^4.17.11"
+  }
 }

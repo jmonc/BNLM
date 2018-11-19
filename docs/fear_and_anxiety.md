@@ -34,5 +34,10 @@ _Variations:_
 
 ## References:
 
-Crawley JN \(1985\) Exploratory behavior models of anxiety in mice. Neurosci Biobehav Rev 9\(1\):37-44. De Boer SF, Koolhaas JM \(2003\) Defensive burying in rodents: Ethology, neurobiology and psychopharmacology. Eur J Pharmacol, 463:145– 161. Metz GA, Kolb B, Whishaw IQ \(2005\) Neuropsychological tests. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto. Treit D, Pinel JJP \(2005\) Defensive Burying. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto.
+[Crawley JN (1985) Exploratory behavior models of anxiety in mice. Neurosci Biobehav Rev 9(1):37-44.](https://www.ncbi.nlm.nih.gov/pubmed/2858080)
 
+[De Boer SF, Koolhaas JM (2003) Defensive burying in rodents: Ethology, neurobiology and psychopharmacology. Eur J Pharmacol, 463:145– 161.](https://www.ncbi.nlm.nih.gov/pubmed/12600707)
+
+[Metz GA, Kolb B, Whishaw IQ (2005) Neuropsychological tests. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+
+[Treit D, Pinel JJP (2005) Defensive Burying. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
