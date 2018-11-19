@@ -19,12 +19,12 @@
   * [J - Learning and Memory: Conditioned Avoidance](docs/conditioned_avoidance.md)
   * [K - Learning and Memory: Spatial](docs/spatial.md)
   * [L: Learning and Memory: Recognition](docs/recognition.md)
-* [Appendix](appendix.md)
+* [Appendix](appendix/README.md)
+  * [Writing a Manuscript-Style Lab Report](appendix/sample_labreport.md)
+  * [Scoring Rubric](appendix/rubric.md)
 
 ## Appendix
 
-* [Writing a Manuscript-Style Lab Report](appendix-1/sample_labreport.md)
-* [Scoring Rubric](appendix-1/rubric.md)
 * [General Surgery](appendix-1/surgery.md)
 * [Stereotaxic Surgery](appendix-1/stereotaxic_surgery.md)
 
