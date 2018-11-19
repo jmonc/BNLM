@@ -22,5 +22,6 @@
 * [Appendix](appendix/README.md)
   * [Writing a Manuscript-Style Lab Report](appendix/sample_labreport.md)
   * [Scoring Rubric](appendix/rubric.md)
-  * [General Surgery](appendix-1/surgery.md)
-  * [Stereotaxic Surgery](appendix-1/stereotaxic_surgery.md)
+  * [General Surgery](appendix/surgery.md)
+  * [Stereotaxic Surgery](appendix/stereotaxic_surgery.md)
+
