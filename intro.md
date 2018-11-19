@@ -8,5 +8,5 @@ In the mean time, the repository on GitHub has the full pdf format of this work 
 
 [BNLM on GitHub](https://github.com/jmonc/BNLM)
 
-
 Note we can create a glossary which students can use.
+

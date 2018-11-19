@@ -1,8 +1,7 @@
 # Table of contents
 
-
 * [Biological Neuroscience Lab manual](intro.md)
-* [How to contribute](docs/how_to_edit.md)
+* [How to contribute](how_to_edit.md)
 * [List of Laboratory Exercises](docs/README.md)
   * [A - Animal Handling](docs/animal_handling.md)
   * [B - Sexual Behavior](docs/sexual_behavior.md)
@@ -20,8 +19,12 @@
   * [J - Learning and Memory: Conditioned Avoidance](docs/conditioned_avoidance.md)
   * [K - Learning and Memory: Spatial](docs/spatial.md)
   * [L: Learning and Memory: Recognition](docs/recognition.md)
-* [Appendix](appendix/README.md)
-  * [Writing a Manuscript-Style Lab Report](appendix/sample_labreport.md)
-  * [Scoring Rubric](appendix/rubric.md)
-  * [General Surgery](appendix/surgery.md)
-  * [Stereotaxic Surgery](appendix/stereotaxic_surgery.md)
+* [Appendix](appendix.md)
+
+## Appendix
+
+* [Writing a Manuscript-Style Lab Report](appendix-1/sample_labreport.md)
+* [Scoring Rubric](appendix-1/rubric.md)
+* [General Surgery](appendix-1/surgery.md)
+* [Stereotaxic Surgery](appendix-1/stereotaxic_surgery.md)
+

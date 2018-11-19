@@ -27,11 +27,11 @@ Tools The tools required will depend on the particular surgery being carried out
 * Jewelers’ screws and screwdrivers.
 * Dental Acrylic
 
-  All tools should be cleaned prior to surgery.  A bead sterilizer is a good choice, and a few minutes at 220°C will kill most pathogens.  Alternatively, a disinfectant bath of gremaphine, Zepherian’s solution or 70% ethyl alcohol are quite good at cleaning the tools and will kill bacteria in minutes, although bacterial spores will survive such treatment \(Waynforth, 1980\).
+  All tools should be cleaned prior to surgery. A bead sterilizer is a good choice, and a few minutes at 220°C will kill most pathogens. Alternatively, a disinfectant bath of gremaphine, Zepherian’s solution or 70% ethyl alcohol are quite good at cleaning the tools and will kill bacteria in minutes, although bacterial spores will survive such treatment \(Waynforth, 1980\).
 
-  For completely aseptic sterile tools, more extreme measures are needed.  Tools can be autoclaved \(180°C, 15 lbs/square inch for 15 minutes\).  However, many facilities are not well enough equipped to have multiple sets of tools such that you can have a separate autoclaved set for each surgery \(particularly if you do six or seven a day\).  Cleaning your tools with a bristle brush and clean water, followed by sterilization in the bead sterilizer or an antiseptic solution is sufficient for most rodent surgeries.  If you find that your animals are getting infections, then obviously you’ll want to re-evaluate this step, and proceed with more stringent sterile cleaning of your tools.
+  For completely aseptic sterile tools, more extreme measures are needed. Tools can be autoclaved \(180°C, 15 lbs/square inch for 15 minutes\). However, many facilities are not well enough equipped to have multiple sets of tools such that you can have a separate autoclaved set for each surgery \(particularly if you do six or seven a day\). Cleaning your tools with a bristle brush and clean water, followed by sterilization in the bead sterilizer or an antiseptic solution is sufficient for most rodent surgeries. If you find that your animals are getting infections, then obviously you’ll want to re-evaluate this step, and proceed with more stringent sterile cleaning of your tools.
 
-  Tools should be left to air dry at the end of the day after a final wash.  They should be placed on clean paper towel and hemostats and scissors should be left open to air in drying and prevent rusting.  A small tray is often helpful for transporting the tools from the sink to the surgical table.  If you are autoclaving your tools, make sure they are encased in sterile packaging so that they their sterility can be maintained until you need them.
+  Tools should be left to air dry at the end of the day after a final wash. They should be placed on clean paper towel and hemostats and scissors should be left open to air in drying and prevent rusting. A small tray is often helpful for transporting the tools from the sink to the surgical table. If you are autoclaving your tools, make sure they are encased in sterile packaging so that they their sterility can be maintained until you need them.
 
 ## Pre- and Post Anesthetics
 
@@ -70,7 +70,7 @@ Although a single dose of an injectable anesthetic is typically sufficient for a
 * Hold the clippers tilted forward at about a 45° angle.
 * Hold the skin taut, especially for hamsters, which have loose skin.
 
-  Perform the shaving away from the surgical field.  After you have finished clipping, take the animal to the surgical area and disinfect the area.  Use a small gauze pad or cotton swab soaked in a disinfectant \(Xenodine, Germaphine, 70% alcohol\) to clean the area.  Start in the center of the area and work your way outwards, scrubbing firmly.  A cotton swab works well here, as you can rotate the shaft between your fingers such that the swab is rolling away from you, as you draw the whole thing towards you.  This really cleans all the dirt, oils and hair clippings from the area.
+  Perform the shaving away from the surgical field. After you have finished clipping, take the animal to the surgical area and disinfect the area. Use a small gauze pad or cotton swab soaked in a disinfectant \(Xenodine, Germaphine, 70% alcohol\) to clean the area. Start in the center of the area and work your way outwards, scrubbing firmly. A cotton swab works well here, as you can rotate the shaft between your fingers such that the swab is rolling away from you, as you draw the whole thing towards you. This really cleans all the dirt, oils and hair clippings from the area.
 
   If the surgery is prolonged \(as it is during stereotaxic surgery\) the eyes should be covered with ophthalmic ointment, mineral oil or Vaseline to prevent them from drying out.
 
@@ -82,24 +82,25 @@ Although a single dose of an injectable anesthetic is typically sufficient for a
 
 ## References:
 
-[Canadian Council on Animal Care (1993). *Guide to the Care and Use of Experimental Animals.* Vol 1 (2nd edition), Ottawa: CCAC.](https://www.ccac.ca/Documents/Standards/Guidelines/Experimental_Animals_Vol1.pdf)
+[Canadian Council on Animal Care \(1993\). _Guide to the Care and Use of Experimental Animals._ Vol 1 \(2nd edition\), Ottawa: CCAC.](https://www.ccac.ca/Documents/Standards/Guidelines/Experimental_Animals_Vol1.pdf)
 
-[Cooper DM, DeLong D, Gillett CS (1997). Analgesic efficacy of acetaminophen and buprenorphine administered in the drinking water of rats. Contemp Top Lab Anim, 36 (3): 58-62.](https://www.ncbi.nlm.nih.gov/pubmed/16450956)
+[Cooper DM, DeLong D, Gillett CS \(1997\). Analgesic efficacy of acetaminophen and buprenorphine administered in the drinking water of rats. Contemp Top Lab Anim, 36 \(3\): 58-62.](https://www.ncbi.nlm.nih.gov/pubmed/16450956)
 
-[Flecknell PA (1984). The relief of pain in laboratory animals. Lab Anim, 18: 147-160.](https://www.ncbi.nlm.nih.gov/pubmed/6146743)
+[Flecknell PA \(1984\). The relief of pain in laboratory animals. Lab Anim, 18: 147-160.](https://www.ncbi.nlm.nih.gov/pubmed/6146743)
 
-[Jacobson C (2000).  Adverse effects on growth rates in rats caused by buprenorphine administration. Lab Anim, 34: 202-206.](https://www.ncbi.nlm.nih.gov/pubmed/10817460)
+[Jacobson C \(2000\). Adverse effects on growth rates in rats caused by buprenorphine administration. Lab Anim, 34: 202-206.](https://www.ncbi.nlm.nih.gov/pubmed/10817460)
 
-[Jenkins WL (1987). Pharmacologic aspects of analgesic drugs in animals: An Overview. J Am Vet Med Assoc, 191(10): 1231-1239.](https://www.ncbi.nlm.nih.gov/pubmed/3319984)
+[Jenkins WL \(1987\). Pharmacologic aspects of analgesic drugs in animals: An Overview. J Am Vet Med Assoc, 191\(10\): 1231-1239.](https://www.ncbi.nlm.nih.gov/pubmed/3319984)
 
-[Lichtenberger M, Ko J (2007). Anesthesia and analgesia for small mammals and birds. Vet Clin Exot Anim, 10: 293–315](https://www.ncbi.nlm.nih.gov/pubmed/17577554)
+[Lichtenberger M, Ko J \(2007\). Anesthesia and analgesia for small mammals and birds. Vet Clin Exot Anim, 10: 293–315](https://www.ncbi.nlm.nih.gov/pubmed/17577554)
 
-[Trevor AJ, Miller RD, (1992). General Anesthetics. In: B.G. Katzung, (ed) *Basic and Clinical Pharmacology* (5th ed). Toronto: Prentice Hall Canada Inc.](sbmu.ac.ir/uploads/Katzung_2012_12th_edition.pdf)
+[Trevor AJ, Miller RD, \(1992\). General Anesthetics. In: B.G. Katzung, \(ed\) _Basic and Clinical Pharmacology_ \(5th ed\). Toronto: Prentice Hall Canada Inc.](https://github.com/jmonc/BNLM/tree/21be773d73e188106d44b0c46178bffad0854bf7/appendix/sbmu.ac.ir/uploads/Katzung_2012_12th_edition.pdf)
 
-[Waynforth HB (1980). *Experimental and Surgical Technique in the Rat.* New York: Academic Press.](https://catalogue.nla.gov.au/Record/1317336)
+[Waynforth HB \(1980\). _Experimental and Surgical Technique in the Rat._ New York: Academic Press.](https://catalogue.nla.gov.au/Record/1317336)
 
-[Wixson SK, White WJ, Hughes HC Jr, Lang CM, Marshall WK (1987a). A comparison of pentobarbital, fentanyl-droperidol, ketamine-xylazine and ketamine-diazepam anesthesia in adult male rats. Laboratory Animal Science, 37(6): 726-730.](https://www.ncbi.nlm.nih.gov/pubmed/3437748)
+[Wixson SK, White WJ, Hughes HC Jr, Lang CM, Marshall WK \(1987a\). A comparison of pentobarbital, fentanyl-droperidol, ketamine-xylazine and ketamine-diazepam anesthesia in adult male rats. Laboratory Animal Science, 37\(6\): 726-730.](https://www.ncbi.nlm.nih.gov/pubmed/3437748)
 
-[Wixson SK, White WJ, Hughes HC Jr, Marshall WK, Lang CM (1987b). The effects of pentobarbital, fentanyl-droperidol, ketamine-xylazine and ketamine-diazepam on noxious stimulus perception in adult male rats. Laboratory Animal Science, 37(6): 731-735.](https://www.ncbi.nlm.nih.gov/pubmed/3437750)
+[Wixson SK, White WJ, Hughes HC Jr, Marshall WK, Lang CM \(1987b\). The effects of pentobarbital, fentanyl-droperidol, ketamine-xylazine and ketamine-diazepam on noxious stimulus perception in adult male rats. Laboratory Animal Science, 37\(6\): 731-735.](https://www.ncbi.nlm.nih.gov/pubmed/3437750)
 
-[Yashpal K, Katz J, Coderre TJ (1996). Effects of preemptive or postinjury intrathecal local anesthesia on persistent nociceptive responses in rats. Anesthesiology, 84: 1119-1128.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3972946/)
+[Yashpal K, Katz J, Coderre TJ \(1996\). Effects of preemptive or postinjury intrathecal local anesthesia on persistent nociceptive responses in rats. Anesthesiology, 84: 1119-1128.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3972946/)
+

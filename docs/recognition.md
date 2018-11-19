@@ -15,7 +15,7 @@ Object recognition is a model of working memory. It is a useful model for unders
 * First, habituate the rat to the choice maze by placing reward pellets in the food cups \(VWR, catalog \#s CA89067-518; 89067-534; or 89067-518\).
 * Next, use an object discrimination task where they always are presented with the same 2 objects, and need to displace the same one to get a reward hidden beneath it.  Do this over 2 days.
 * After they readily perform the object discrimination task, they must be trained to run back and forth so that you can get them to leave the reward area.  Do this by alternating the end of the maze where reinforcement is received. Do this over 2 days.
-* Finally, if your maze has doors, train the rat in how they operate. Place the rat in the maze, and allow it to move to one end.  When it does, close the distal door, and put a pellet in the cup on the other side of the door.  When the rat approaches the door, raise it, and as it eats the reward, close the other door and bait a cup behind that one.  Do this over 2 days.
+* Finally, if your maze has doors, train the rat in how they operate. Place the rat in the maze, and allow it to move to one end. When it does, close the distal door, and put a pellet in the cup on the other side of the door. When the rat approaches the door, raise it, and as it eats the reward, close the other door and bait a cup behind that one. Do this over 2 days.
 
   _Test:_
 
@@ -53,10 +53,11 @@ Object recognition is a model of working memory. It is a useful model for unders
 
 ## References:
 
-[Mumby DG, Pinel JPJ, Wood ER (1990). Nonrecurring-items delayed nonmatching-to-sample in rats: A new paradigm for testing nonspatial working memory. Psychobiology, 18(3): 321-326.](https://link.springer.com/article/10.3758/BF03327250)
+[Mumby DG, Pinel JPJ, Wood ER \(1990\). Nonrecurring-items delayed nonmatching-to-sample in rats: A new paradigm for testing nonspatial working memory. Psychobiology, 18\(3\): 321-326.](https://link.springer.com/article/10.3758/BF03327250)
 
-[Mumby DG (2001) Perspectives on object-recognition memory following hippocampal damage: lessons from studies in rats.  Behav Brain Res, 127(1-2):159-81.](https://www.ncbi.nlm.nih.gov/pubmed/11718890)
+[Mumby DG \(2001\) Perspectives on object-recognition memory following hippocampal damage: lessons from studies in rats. Behav Brain Res, 127\(1-2\):159-81.](https://www.ncbi.nlm.nih.gov/pubmed/11718890)
 
-[Mumby DG, Gaskin S, Glenn MJ, Schramek TE, Lehmann H (2002) Hippocampal damage and exploratory preferences in rats: memory for objects, places, and contexts.  Learn Mem, 9(2):49-57.](https://www.ncbi.nlm.nih.gov/pubmed/11992015)
+[Mumby DG, Gaskin S, Glenn MJ, Schramek TE, Lehmann H \(2002\) Hippocampal damage and exploratory preferences in rats: memory for objects, places, and contexts. Learn Mem, 9\(2\):49-57.](https://www.ncbi.nlm.nih.gov/pubmed/11992015)
 
-[Mumby DG (2005) Object Recognition. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Mumby DG \(2005\) Object Recognition. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+

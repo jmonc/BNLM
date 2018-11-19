@@ -79,15 +79,15 @@ Making a good figure is a bit of an art. If someone has a copy of your paper on 
 
 ## References:
 
+[American Psychological Association \(2009\) _Publication Manual of the American Psychological Association \(6th Ed\)._ American Psychological Association: Washington, DC](https://www.apastyle.org/manual)
 
-[American Psychological Association (2009) *Publication Manual of the American Psychological Association (6th Ed).* American Psychological Association: Washington, DC](https://www.apastyle.org/manual)
+[Council of Biology Editors \(1994\) _Scientific Style and Format: The CBE Manual for Authors, Editors, and Publishers._ Cambridge University Press](https://muse.jhu.edu/article/401132)
 
-[Council of Biology Editors (1994) *Scientific Style and Format: The CBE Manual for Authors, Editors, and Publishers.* Cambridge University Press](https://muse.jhu.edu/article/401132)
+[Council of Science Editors \(2006\) _Scientific Style and Format: The CSE Manual for Authors, Editors, And Publishers._ \(7th Ed\). CSE Books](https://www.tru.ca/library/pdf/csecitationstyle.pdf)
 
-[Council of Science Editors (2006) *Scientific Style and Format: The CSE Manual for Authors, Editors, And Publishers.* (7th Ed). CSE Books](https://www.tru.ca/library/pdf/csecitationstyle.pdf)
+[Rabinowitz and Vogel \(2009\) _The Manual of Scientific Style: A Guide for Authors, Editors, and Researchers._ Academic Press](https://www.sciencedirect.com/book/9780123739803/the-manual-of-scientific-style)
 
-[Rabinowitz and Vogel (2009) *The Manual of Scientific Style: A Guide for Authors, Editors, and Researchers.* Academic Press](https://www.sciencedirect.com/book/9780123739803/the-manual-of-scientific-style)
+[Sarter M, Fritschy JM \(2008\) Reporting statistical methods and statistical results in EJN. Eur J Neurosci, 28\(12\): 2363-2364.](https://www.ncbi.nlm.nih.gov/pubmed/19087166)
 
-[Sarter M, Fritschy JM (2008) Reporting statistical methods and statistical results in EJN. Eur J Neurosci, 28(12): 2363-2364.](https://www.ncbi.nlm.nih.gov/pubmed/19087166)
+Strunk W and White EB \(2008\) _The Elements of Style: 50th Anniversary Edition._ Longman
 
-Strunk W and White EB (2008) *The Elements of Style: 50th Anniversary Edition.* Longman

@@ -28,8 +28,9 @@ In any surgical intervention, histological confirmation of the effectiveness to 
 
 ## References:
 
-[Blandini F, Armentero MT, Martignoni E (2008) The 6-hydroxydopamine model: news from the past. Parkinsonism Relat Disord,14 (Suppl 2):S124-9.](https://www.ncbi.nlm.nih.gov/pubmed/18595767)
+[Blandini F, Armentero MT, Martignoni E \(2008\) The 6-hydroxydopamine model: news from the past. Parkinsonism Relat Disord,14 \(Suppl 2\):S124-9.](https://www.ncbi.nlm.nih.gov/pubmed/18595767)
 
-[Deumens R, Blokland A, Prickaerts J (2002) Modeling Parkinson's disease in rats: an evaluation of 6-OHDA lesions of the nigrostriatal pathway. Exp Neurol, 175(2):303-17](https://www.ncbi.nlm.nih.gov/pubmed/12061862)
+[Deumens R, Blokland A, Prickaerts J \(2002\) Modeling Parkinson's disease in rats: an evaluation of 6-OHDA lesions of the nigrostriatal pathway. Exp Neurol, 175\(2\):303-17](https://www.ncbi.nlm.nih.gov/pubmed/12061862)
 
-[Kolb B (2005) Neurological Models. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Kolb B \(2005\) Neurological Models. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+

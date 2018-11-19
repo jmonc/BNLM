@@ -24,8 +24,9 @@ _Preparation:_ Read Chapter 27: Maternal Behavior \(Rees et al., 2005\) before t
 
 ## References:
 
-[Fleming A, Rosenblatt JS (1974) Maternal behavior in the virgin and lactating rat, Behav Neurosci 86(5):957-72.](https://www.ncbi.nlm.nih.gov/pubmed/4833599)
+[Fleming A, Rosenblatt JS \(1974\) Maternal behavior in the virgin and lactating rat, Behav Neurosci 86\(5\):957-72.](https://www.ncbi.nlm.nih.gov/pubmed/4833599)
 
-[Jans JE, Woodside BC (1990) Nest temperature: Effects on maternal behavior, pup development, and interactions with handling. Dev Psychobiol, 23:519-534. ](https://www.ncbi.nlm.nih.gov/pubmed/2272408)
+[Jans JE, Woodside BC \(1990\) Nest temperature: Effects on maternal behavior, pup development, and interactions with handling. Dev Psychobiol, 23:519-534. ](https://www.ncbi.nlm.nih.gov/pubmed/2272408)
 
-[Rees SL, Lovic V, Fleming AS (2005). Maternal Behavior. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Rees SL, Lovic V, Fleming AS \(2005\). Maternal Behavior. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+

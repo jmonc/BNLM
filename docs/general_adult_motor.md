@@ -58,10 +58,11 @@ Choose one of the motor behaviours that were observed in lab. Using information 
 
 ## References:
 
-[Aldridge JW (2005) Grooming. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Aldridge JW \(2005\) Grooming. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
 
-[Golani I, Benjamini Y, Dvorkin A, Lipkind D, and Kafkafi N (2005) Locomotor and Exploratory Behavior. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Golani I, Benjamini Y, Dvorkin A, Lipkind D, and Kafkafi N \(2005\) Locomotor and Exploratory Behavior. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
 
-[Muir G (2005) Locomotion. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Muir G \(2005\) Locomotion. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
 
-[Pellis SM and Pellis VC (2005) Posture. In: IQ Whishaw and B Kolb (Eds), *The behavior of the Laboratory rat: A handbook with tests.* Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Pellis SM and Pellis VC \(2005\) Posture. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+
