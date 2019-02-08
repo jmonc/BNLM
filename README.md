@@ -14,7 +14,4 @@ The simplest way is to simply select "Clone or Download" and then select "Downlo
  Upon extracting this file the PDF and word files may be found in the "Offline_documentation" folder.
 
 
- <Button.Toolbar>
- <Button>Button button</Button>
- <Button href="#">Link button</Button>
- </Button.Toolbar>
+[hi](https://raw.githubusercontent.com/jmonc/BNLM/master/.gitignore)

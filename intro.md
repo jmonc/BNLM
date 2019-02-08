@@ -10,3 +10,5 @@ In the mean time, the repository on GitHub has the full pdf format of this work 
 
 Note we can create a glossary which students can use.
 
+
+[hi](https://github.com/jmonc/BNLM/raw/master/Offline_Documentation/BNLM_complete.pdf)
