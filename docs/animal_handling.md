@@ -1,17 +1,18 @@
 # A - Animal Handling
 
-## Objectives:
+## Learning Objectives:
 
-* To learn about animal laboratory safety
-* To learn about respectful use on animals in a lab setting
-* To learn how to handle a rat properly
-* To learn how to give a rat an injection
+By the end of this laboratory you should be able to:
+
+1. Discuss the respectful and safe use of animals in a laboratory setting
+2. Demonstrate how to handle a rat properly
+3. Decribe how to give a rat an injection
 
 ## Introduction:
 
-Behavioral Neuroscience attempts to explain the neural underpinnings of behavior. There are a variety of approaches that can be used to study the neural control of behavior in humans, such as neuroimaging studies and neuropsychological assessments in clinical patients, but these approaches do have limitations as they involve people. Animal models allow for greater experimental control, finer resolution, and more invasive procedures. The animal used in research must always be treated with respect and compassion, and all procedures conducted with the animal must adhere to the guidelines outlined by the Canadian Council of Animal Care \(CCAC, 1993\). Additionally, all procedures conducted on the animal must have had prior approval of the university’s animal ethics committee.
+Behavioural Neuroscience attempts to explain the neural underpinnings of behaviour. There are a variety of approaches that can be used to study the neural control of behaviour in humans, such as neuroimaging studies and neuropsychological assessments in clinical patients, but these approaches do have limitations as they involve people. Animal models allow for greater experimental control, finer resolution, and more invasive procedures. The animal used in research must always be treated with respect and compassion, and all procedures conducted with the animal must adhere to the guidelines outlined by the Canadian Council of Animal Care \(CCAC, 1993\). Additionally, all procedures conducted on the animal must have had prior approval of the university’s animal ethics committee.
 
-Throughout this course, you will be exposed to a variety of approaches for studying the behavior of the laboratory rat. Proper handling and husbandry of the laboratory animal is essential for both ethical and practical reasons. In this laboratory exercise, you will learn the proper technique for handling a rat, and will gain experience in proper restraint and injection methods. These skills require practice and learning, both on the part of you and the rat. A rat that is handled frequently will become easier to handle and will be less anxious during experimental procedures.
+Throughout this course, you will be exposed to a variety of approaches for studying the behaviour of the laboratory rat. Proper handling and husbandry of the laboratory animal is essential for both ethical and practical reasons. In this laboratory exercise, you will learn the proper technique for handling a rat, and will gain experience in proper restraint and injection methods. These skills require practice and learning, both on the part of you and the rat. A rat that is handled frequently will become easier to handle and will be less anxious during experimental procedures.
 
 ## Procedure:
 
@@ -50,3 +51,4 @@ Create a dosage chart for rats weighting between 300 and 400g in 10g intervals. 
 ## References
 
 [Canadian Council of Animal Care \(1993\) Guide to the Care and Use of Experimental Animals, Volume 1 \(2nd Ed\)](http://www.ccac.ca/Documents/Standards/Guidelines/Experimental_Animals_Vol1.pdf)
+
