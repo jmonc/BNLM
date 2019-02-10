@@ -6,7 +6,7 @@ By the end of this laboratory you should be able to:
 
 1. Discuss the respectful and safe use of animals in a laboratory setting
 2. Demonstrate how to handle a rat properly
-3. Decribe how to give a rat an injection
+3. Describe how to give a rat an injection
 
 ## Introduction:
 
@@ -31,6 +31,10 @@ As today’s exercise will involve a demonstration of several different injectio
 _Injections:_
 
 To load a syringe, first use an alcohol swab to disinfect the rubber stopper on the drug vial. Using sterile technique, place a syringe needle of appropriate gauge \(22 gauge\) on the syringe. Pull in a volume of air equivalent to the volume of fluid to be withdrawn from the bottle. Inset the syringe into the bottle, and inject the air. This procedure prevents the creation of a vacuum in the bottle. Then invert the bottle, and withdraw an excess of fluid. Grasp the base of the syringe with your pinkie finger, and flick the tip of the syringe with your index finger to dislodge any air bubbles. When the air bubbles are at the top of the syringe, expel them back into the bottle by depressing the plunger to the desired injection volume. Air bubbles can be lethal if injected into the animal and will lead to inaccurate measurements of the injected fluid. Use a fresh syringe for each injection.
+
+{% embed url="https://www.youtube.com/watch?v=Mg5f\_4pJFPw" %}
+
+
 
 _Intraperitoneal \(IP\) injection:_
 
