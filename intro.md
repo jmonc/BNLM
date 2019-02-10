@@ -1,4 +1,4 @@
-# Biological Neuroscience Lab manual
+# Behavioural Neuroscience Lab Manual
 
 ## Welcome
 
