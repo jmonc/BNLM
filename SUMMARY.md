@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Biological Neuroscience Lab manual](intro.md)
+* [Behavioural Neuroscience Lab Manual](intro.md)
 * [How to contribute](how_to_edit.md)
 * [List of Laboratory Exercises](docs/README.md)
  * [A - Animal Handling](docs/animal_handling/animal_handling.md)

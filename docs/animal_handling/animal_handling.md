@@ -1,17 +1,18 @@
 # A - Animal Handling
 
-## Objectives:
+## Learning Objectives:
 
-* To learn about animal laboratory safety
-* To learn about respectful use on animals in a lab setting
-* To learn how to handle a rat properly
-* To learn how to give a rat an injection
+By the end of this laboratory you should be able to:
+
+1. Discuss the respectful and safe use of animals in a laboratory setting
+2. Demonstrate how to handle a rat properly
+3. Describe how to give a rat an injection
 
 ## Introduction:
 
-Behavioral Neuroscience attempts to explain the neural underpinnings of behavior. There are a variety of approaches that can be used to study the neural control of behavior in humans, such as neuroimaging studies and neuropsychological assessments in clinical patients, but these approaches do have limitations as they involve people. Animal models allow for greater experimental control, finer resolution, and more invasive procedures. The animal used in research must always be treated with respect and compassion, and all procedures conducted with the animal must adhere to the guidelines outlined by the Canadian Council of Animal Care \(CCAC, 1993\). Additionally, all procedures conducted on the animal must have had prior approval of the university’s animal ethics committee.
+Behavioural Neuroscience attempts to explain the neural underpinnings of behaviour. There are a variety of approaches that can be used to study the neural control of behaviour in humans, such as neuroimaging studies and neuropsychological assessments in clinical patients, but these approaches do have limitations as they involve people. Animal models allow for greater experimental control, finer resolution, and more invasive procedures. The animal used in research must always be treated with respect and compassion, and all procedures conducted with the animal must adhere to the guidelines outlined by the Canadian Council of Animal Care \(CCAC, 1993\). Additionally, all procedures conducted on the animal must have had prior approval of the university’s animal ethics committee.
 
-Throughout this course, you will be exposed to a variety of approaches for studying the behavior of the laboratory rat. Proper handling and husbandry of the laboratory animal is essential for both ethical and practical reasons. In this laboratory exercise, you will learn the proper technique for handling a rat, and will gain experience in proper restraint and injection methods. These skills require practice and learning, both on the part of you and the rat. A rat that is handled frequently will become easier to handle and will be less anxious during experimental procedures.
+Throughout this course, you will be exposed to a variety of approaches for studying the behaviour of the laboratory rat. Proper handling and husbandry of the laboratory animal is essential for both ethical and practical reasons. In this laboratory exercise, you will learn the proper technique for handling a rat, and will gain experience in proper restraint and injection methods. These skills require practice and learning, both on the part of you and the rat. A rat that is handled frequently will become easier to handle and will be less anxious during experimental procedures.
 
 ## Procedure:
 
@@ -31,9 +32,13 @@ _Injections:_
 
 To load a syringe, first use an alcohol swab to disinfect the rubber stopper on the drug vial. Using sterile technique, place a syringe needle of appropriate gauge \(22 gauge\) on the syringe. Pull in a volume of air equivalent to the volume of fluid to be withdrawn from the bottle. Inset the syringe into the bottle, and inject the air. This procedure prevents the creation of a vacuum in the bottle. Then invert the bottle, and withdraw an excess of fluid. Grasp the base of the syringe with your pinkie finger, and flick the tip of the syringe with your index finger to dislodge any air bubbles. When the air bubbles are at the top of the syringe, expel them back into the bottle by depressing the plunger to the desired injection volume. Air bubbles can be lethal if injected into the animal and will lead to inaccurate measurements of the injected fluid. Use a fresh syringe for each injection.
 
+{% embed url="https://www.youtube.com/watch?v=Mg5f\_4pJFPw" %}
+
+
+
 _Intraperitoneal \(IP\) injection:_
 
-Hold the rat by the base of the tail \(never the tip\) with your dominant hand. With your other hand, firmly grasp the rat around the thorax with your other hand such that your thumb and index finger push on the animal’s elbows, forcing its forepaws to cross in front of it. With the paws crossed under its chin, it should be unable to bite you. Let go of the tail. If you are alone, place the rat’s hind legs on your hip, and rotating your hand slightly. This will stretch the abdomen and immobilize the hind limbs and the tail. If you have an assistant, you may prefer to use your dominant hand to grasp the legs and tail and have your assistant give the injection. In this case, invert the animal so that its head is pointed down, this will allow the visceral organs to move towards the diaphragm, minimizing the risk of puncturing them with the needle. The needle should be inserted about 5mm in the animal’s lower right abdomen \(this avoids the bladder and cecum\) with the needle-tip angled slightly towards the head. Pull back on the plunger to confirm that you have formed a vacuum. Small bubbles should appear in the syringe \(these are dissolved gases coming out of solution under low pressure\). If you see these bubbles, then depress the plunger at a steady rate over a couple seconds. If you see blood or some other fluid instead of bubbles, this indicates that you have hit an organ. Dispose of the syringe and start again. NEVER inject this material into the abdominal cavity as it will lead to peritonitis
+Hold the rat by the base of the tail \(never the tip\) with your dominant hand. With your other hand, firmly grasp the rat around the thorax with your other hand such that your thumb and index finger push on the animal’s elbows, forcing the forepaws to cross in front of it. With the paws crossed under its chin, it should be unable to bite you. Let go of the tail. If you are alone, place the rat’s hind legs on your hip, and rotating your hand slightly. This will stretch the abdomen and immobilize the hind limbs and the tail. If you have an assistant, you may prefer to use your dominant hand to grasp the legs and tail and have your assistant give the injection. In this case, invert the animal so that its head is pointed down, this will allow the visceral organs to move towards the diaphragm, minimizing the risk of puncturing them with the needle. The needle should be inserted about 5mm in the animal’s lower right abdomen \(this avoids the bladder and cecum\) with the needle-tip angled slightly towards the head. Pull back on the plunger to confirm that you have formed a vacuum. Small bubbles should appear in the syringe \(these are dissolved gases coming out of solution under low pressure\). If you see these bubbles, then depress the plunger at a steady rate over a couple seconds. If you see blood or some other fluid instead of bubbles, this indicates that you have hit an organ. Dispose of the syringe and start again. NEVER inject this material into the abdominal cavity as it will lead to peritonitis
 
 _Subcutaneous \(SC\) injection:_
 
@@ -41,9 +46,10 @@ A subcutaneous injection can be accomplished by pinching the skin just posterior
 
 _Dose, volume, and concentration:_
 
-The subcutaneous route allows for about 1ml of fluid for every 100g of body size. The intraperitoneal route can accommodate more, but the 1ml/100g ratio is a good rule of thumb. Ideally, vehicle should be isotonic \(0.9% saline\), sterile, and of physiological pH \(7.3-7.4\). Dosage can be calculated as mg or drug per kg of body mass \(mg/kg\). Typically, your drug is pre-prepared to a certain concentration \(mg/ml\). To dose the drug properly, you will need to weigh the rat ahead of time. To maintain the same dosage across animals, the volume of your injection must be altered based on the weight of the animal \(ml/kg\). It is handy to prepare a dosage chart ahead of time where the ml/kg has been calculated for a range of animal weights.
+The subcutaneous route allows for about 1ml of fluid for every 100g of body size. The intraperitoneal route can accommodate more, but the 1ml/100g ratio is a good rule of thumb. Ideally, vehicle should be isotonic \(0.9% saline\), sterile, and of physiological pH \(7.3-7.4\). Dosage can be calculated as mg of drug per kg of body mass \(mg/kg\). Typically, your drug is pre-prepared to a certain concentration \(mg/ml\). To dose the drug properly, you will need to weigh the rat ahead of time. To maintain the same dosage across animals, the volume of your injection must be altered based on the weight of the animal \(ml/kg\). It is handy to prepare a dosage chart ahead of time where the ml/kg has been calculated for a range of animal weights.
 
 
 ## References
 
 [Canadian Council of Animal Care \(1993\) Guide to the Care and Use of Experimental Animals, Volume 1 \(2nd Ed\)](http://www.ccac.ca/Documents/Standards/Guidelines/Experimental_Animals_Vol1.pdf)
+
