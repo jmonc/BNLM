@@ -22,9 +22,6 @@ Follow the procedures outlined in Laboratory Exercises C and D with your rat. Su
 
 In any surgical intervention, histological confirmation of the effectiveness to the surgery is important. Discuss with your TA opportunities for learning about histological procedures \(perfusion, tissue slicing and staining, microscopy\) that may be available. For this study, perfusion with 4% paraformaldehyde, tissue sectioning and immunohistochemical using a peroxidase stain for tyrosine hydroxylase in the striatum would be appropriate histological procedures.
 
-## Homework Assignment:
-
-* Complete a full manuscript style lab report \(See appendix A\) of the experiment.  Include statistical analysis of the behaviors before and after stroke.
 
 ## References:
 
@@ -33,4 +30,3 @@ In any surgical intervention, histological confirmation of the effectiveness to 
 [Deumens R, Blokland A, Prickaerts J \(2002\) Modeling Parkinson's disease in rats: an evaluation of 6-OHDA lesions of the nigrostriatal pathway. Exp Neurol, 175\(2\):303-17](https://www.ncbi.nlm.nih.gov/pubmed/12061862)
 
 [Kolb B \(2005\) Neurological Models. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
-

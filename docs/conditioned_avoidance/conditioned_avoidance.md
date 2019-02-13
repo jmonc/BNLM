@@ -16,10 +16,6 @@ _Test:_ **Day 1:** 4-6 hours before the lab, remove the waterbottle from the rat
 
 **Day 2** Place the saccharin bottle and plain water bottle in the same locations as yesterday. Place the rat into the testing chamber for 30 minutes. Note which bottle the rat approaches first. Observe its facial features when it drinks the saccharin solution. Measure how much time the rat spends drinking from each water bottle. Report your treatment condition \(Saline or LiCl\) and your drinking times per bottle to your TA, who will collate the results from all the students
 
-## Homework Assignment:
-
-* Prepare a graph of drinking time for each bottle on day 2 for each group.  Run a statistical test \(2 way ANOVA, taste X treatment\) to explore the findings
-
 ## References:
 
 [Jacobsen PB, Bovbjerg DH, Schwartz MD, Andrykowski MA, Futterman AD, Gilewski T, Norton L, Redd WH \(1993\) Formation of food aversions in cancer patients receiving repeated infusions of chemotherapy. Behav Res Ther, 31\(8\):739-48.](https://www.ncbi.nlm.nih.gov/pubmed/8257405)
@@ -31,4 +27,3 @@ _Test:_ **Day 1:** 4-6 hours before the lab, remove the waterbottle from the rat
 [Swank MW, Schafe GE, Bernstein IL \(1995\) c-Fos induction in response to taste stimuli previously paired with amphetamine or LiC1 during taste aversion learning. Brain Res, 673:251-261.](https://www.ncbi.nlm.nih.gov/pubmed/7606439)
 
 [Welzl H, D’Adamo P, Lipp H-P \(2001\) Conditioned taste aversion as a learning and memory paradigm. Behav Brain Res, 125:205–213.](https://www.ncbi.nlm.nih.gov/pubmed/11682112)
-

@@ -52,9 +52,6 @@ _Preparation:_ Read chapters 11, 13, 14 and 16 in the Behavior of the Laboratory
 * Place the rat in an open field for 5 minutes
 * Note the variety of behaviours exhibited, their sequence and durations.  These include thigmotaxis \(running along the wall\), head movements, rearing, and different patterns of limb movements.  Measure the amount of time spent in different regions of the open field.  Attempt to determine if the animal has established a home-base.
 
-## Homework Assignment:
-
-Choose one of the motor behaviours that were observed in lab. Using information from lab and the textbook, describe the behavior and its components as it is expected to be seen in a normal healthy rat, as well as the observations you made in lab of that behavior. Include a brief description of the neural systems that regulate this behavior, and how this behavior may be altered specific brain damage or a specific drug treatment. Page limit: 2 pages.
 
 ## References:
 
@@ -65,4 +62,3 @@ Choose one of the motor behaviours that were observed in lab. Using information 
 [Muir G \(2005\) Locomotion. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
 
 [Pellis SM and Pellis VC \(2005\) Posture. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
-

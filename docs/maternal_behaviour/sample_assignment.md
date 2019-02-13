@@ -1,4 +1,4 @@
-#PSYC/NEUR 478 – Brief Assignment \#2
+### Brief Assignment \#2 – Maternal Behaviour
 
 In this week’s lab you observed the behaviour of female rats in the presence of offspring. In addition to observing the undisturbed behaviour of a rat dam you compared the pup retrieval behaviour of rat dams with that of a virgin female (time to retrieve all pups, etc.).
 

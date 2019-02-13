@@ -20,9 +20,6 @@ _Test:_ Set up the test cage equipped with a bar. Connect the bar to one trigger
 
 _Follow-up:_ In any surgical intervention, histological confirmation of the effectiveness to the surgery is important. Discuss with your TA opportunities for learning about histological procedures \(perfusion, tissue slicing and staining, microscopy\) that may be available. For this study, perfusion with formalin, tissue sectioning and a nissl stain such as cresyl violet would be appropriate histological procedures.
 
-## Homework Assignment:
-
-* Prepare a graph of the results.  Perform a statistical analysis \(2 way ANOVA; treatment x session\) to determine if the two groups \(saline or raclopride\) differed significantly in the amount of bar pressing both before and after injection.
 
 ## References:
 
@@ -33,4 +30,3 @@ _Follow-up:_ In any surgical intervention, histological confirmation of the effe
 [Panagis G, Spyraki C \(1996\) Neuropharmacological evidence for the role of dopamine in ventral pallidum self.stimulation. Psychopharmacology, 123:280 288.](https://link.springer.com/article/10.1007/BF02246582)
 
 [Wise RA \(1996\) Addictive drugs and brain stimulation reward. Annu Rev Neurosci, 19:319-40.](https://www.ncbi.nlm.nih.gov/pubmed/8833446)
-

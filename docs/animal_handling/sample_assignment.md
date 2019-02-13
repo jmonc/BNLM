@@ -1,4 +1,4 @@
-#PSYC/NEUR 478 – Brief Assignment \#1
+### Brief Assignment \#1 – Animal Handling
 
 In this week’s lab you learned how to appropriately handle a rat and observed how to give an injection properly. Injecting substances into a research animal is one of the more common occurrences in behavioural neuroscience and is an essential skill for success in the lab. Delivery of anaesthetics, drugs of abuse, antibiotics, etc. all rely on your ability to administer the substance safely and in the correct amount. Dosage is calculated as milligrams per kilogram (mg/kg) of body weight. Typically, the drug you will be working with is pre-prepared at a certain concentration (mg/ml). In order to keep the dosage constant across different animals, the volume of the injection needs to be altered based on the animal’s weight (ml/kg).
 

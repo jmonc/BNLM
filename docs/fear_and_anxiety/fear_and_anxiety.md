@@ -26,11 +26,6 @@ _Variations:_
 
 * If the marble task does not elicit defensive burying, a different marble task can be used.  Place a number of marbles \(~15\) into a cage, evenly spaced, resting on the bedding.  Place the rat in the cage.  After 30 minutes, remove the rat and count how many marbles are buried.  Anxiolytic drugs suppress this burying behavior \(De Boer and Koolhaas, 2003\)
 
-## Homework Assignment:
-
-* Select one of these tasks.  Perform a literature search for this task and find a paper that found a change in the behavior follow treatment with a drug.  In one page, summarize the paper, its rational, its methods and its findings.
-* Select one of these tasks.  Perform a literature search for this task and find a paper that examined the neural underpinnings of fear or anxiety.  In one page, summarize the paper, its rational, its methods and its findings.
-* Fear and anxiety can be learned.  Do a literature search to find such a task.  Find a paer examining this phenomenon. In one page, summarize the paper, its rational, its methods and its findings.
 
 ## References:
 
@@ -41,4 +36,3 @@ _Variations:_
 [Metz GA, Kolb B, Whishaw IQ \(2005\) Neuropsychological tests. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
 
 [Treit D, Pinel JJP \(2005\) Defensive Burying. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
-

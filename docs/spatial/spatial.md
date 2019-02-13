@@ -23,12 +23,6 @@ _Test:_ **Watermaze** For the watermaze test, start the capture program, and mak
 
 Give you TA the data to collate.
 
-## Homework Assignment:
-
-* Prepare a graph showing time to find platform in the water maze across trials.
-* Do a statistical test for time spent in each quadrant in the probe trial.
-* Prepare a graph of total object exploration time across trials.
-* Perform a statistical test for time spent examining each object following the 3 different treatments \(mixed design: 4 objects x 3 treatments\)
 
 ## References:
 
@@ -39,4 +33,3 @@ Give you TA the data to collate.
 [Save E, Poucet B \(2005\) Piloting. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
 
 [Sutherland RJ and Dyck RH \(1984\). Place Navigation by Rats in a Swimming Pool, Can J Psychology, 38\(2\):322-347.](https://github.com/jmonc/BNLM/tree/21be773d73e188106d44b0c46178bffad0854bf7/docs/psycnet.apa.org/record/1985-11428-001/README.md)
-

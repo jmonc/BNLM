@@ -33,10 +33,6 @@ In paced mating, to calculate percent exits divide the number of exits following
 
 For describing proceptive and copulatory behavior, make careful notes about the sequences of events. Look for the female to perform the following: hopping, darting, ear wiggling, and lordosis \(Erskin, 1989\). For males, look at how he orients to the female, touches her and explores her. Note genital exploration and licking, whether of the partner or of the self. Note the sequence and quantity of mounts, intromissions and ejaculations, as well as postcopulatory behaviors \(refractory periods\).
 
-## Homework Assignment:
-
-1. In one page, describe the proceptive and copulatory behaviors of the female rat.  Pay careful attention to the sequence of events.  Calculate the lordosis quotient of your rat.
-2. For paced mating, calculate the percent exits and return latency for your female rat.  Describe how these dependent variables change with increasing coital stimulation \(Mounts vs. intromissions vs. ejaculations\).
 
 ## References:
 
@@ -45,4 +41,3 @@ For describing proceptive and copulatory behavior, make careful notes about the 
 [Jenkins WJ, Becker JB \(2001\) Role of the striatum and nucleus accumbens in paced copulatory behavior in the female rat. Behav Brain Res, 121\(1-2\):119-28.](https://www.ncbi.nlm.nih.gov/pubmed/11275289)
 
 [Jenkins WJ and Becker JB \(2005\) Sex. In: IQ Whishaw and B Kolb \(Eds\), The behavior of the Laboratory rat: A handbook with tests. Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
-

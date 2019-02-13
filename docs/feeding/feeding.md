@@ -17,13 +17,9 @@ _Test:_ Prepare a solution of RS-AMPA \(Tocris Bioscience, Ellisville, MO, USA; 
 
 _Follow-up:_ In any surgical intervention, histological confirmation of the effectiveness to the surgery is important. Discuss with your TA opportunities for learning about histological procedures \(perfusion, tissue slicing and staining, microscopy\) that may be available. For this study, perfusion with formalin, tissue sectioning and a nissl stain such as cresyl violet would be appropriate histological procedures.
 
-## Homework Assignment:
-
-* Prepare a graph of the results.  Perform a statistical analysis \(Student’s t-test\) to determine if the two groups \(saline or RS-AMPA\) differed significantly in the amount of food they consumed in the hour following the injection.
 
 ## References:
 
 [Clifton PG \(2005\) Eating. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
 
 [Hettes SR, Gonzaga WJ, Heyming TW, Nguyen JK, Perez S, Stanley BG \(2010\) Stimulation of lateral hypothalamic AMPA receptors may induce feeding in rats. Brain Res, 1346:112-20.](https://www.ncbi.nlm.nih.gov/pubmed/20580634)
-

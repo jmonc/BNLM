@@ -25,13 +25,9 @@ _Variations_
 
 * Mother rats could be treated with a drug during pregnancy to examine how prenatal exposure to such substances can alter pup development.
 
-## Homework Assignment:
-
-* Create developmental figures for each of traits, with age in days along the X-axis, and either percent success, latency, duration or distance along the Y-axis.
 
 ## References:
 
 [Alberts JR \(2005\) Infancy. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
 
 [Altman J, Sudarshan K \(1975\) Postnatal development of locomotion in the laboratory rat. Anim Behav, 23\(4\):896-920.](https://www.ncbi.nlm.nih.gov/pubmed/1200422)
-

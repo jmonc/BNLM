@@ -32,7 +32,7 @@ _Injections:_
 
 To load a syringe, first use an alcohol swab to disinfect the rubber stopper on the drug vial. Using sterile technique, place a syringe needle of appropriate gauge \(22 gauge\) on the syringe. Pull in a volume of air equivalent to the volume of fluid to be withdrawn from the bottle. Inset the syringe into the bottle, and inject the air. This procedure prevents the creation of a vacuum in the bottle. Then invert the bottle, and withdraw an excess of fluid. Grasp the base of the syringe with your pinkie finger, and flick the tip of the syringe with your index finger to dislodge any air bubbles. When the air bubbles are at the top of the syringe, expel them back into the bottle by depressing the plunger to the desired injection volume. Air bubbles can be lethal if injected into the animal and will lead to inaccurate measurements of the injected fluid. Use a fresh syringe for each injection.
 
-{% embed url="https://www.youtube.com/watch?v=Mg5f\_4pJFPw" %}
+https://www.youtube.com/watch?v=Mg5f\_4pJFPw
 
 
 
@@ -52,4 +52,3 @@ The subcutaneous route allows for about 1ml of fluid for every 100g of body size
 ## References
 
 [Canadian Council of Animal Care \(1993\) Guide to the Care and Use of Experimental Animals, Volume 1 \(2nd Ed\)](http://www.ccac.ca/Documents/Standards/Guidelines/Experimental_Animals_Vol1.pdf)
-
