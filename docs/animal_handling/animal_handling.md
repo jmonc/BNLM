@@ -43,9 +43,6 @@ _Dose, volume, and concentration:_
 
 The subcutaneous route allows for about 1ml of fluid for every 100g of body size. The intraperitoneal route can accommodate more, but the 1ml/100g ratio is a good rule of thumb. Ideally, vehicle should be isotonic \(0.9% saline\), sterile, and of physiological pH \(7.3-7.4\). Dosage can be calculated as mg or drug per kg of body mass \(mg/kg\). Typically, your drug is pre-prepared to a certain concentration \(mg/ml\). To dose the drug properly, you will need to weigh the rat ahead of time. To maintain the same dosage across animals, the volume of your injection must be altered based on the weight of the animal \(ml/kg\). It is handy to prepare a dosage chart ahead of time where the ml/kg has been calculated for a range of animal weights.
 
-## Homework Assignment:
-
-Create a dosage chart for rats weighting between 300 and 400g in 10g intervals. The drug you will be injecting needs to be given at a dose of 25mg/kg, and is supplied at a concentration of 40mg/ml.
 
 ## References
 
