@@ -46,7 +46,6 @@ Object recognition is a model of working memory. It is a useful model for unders
 * Run a total of 5 such trials
 * Provide the data to your TA who will collate the data and provide summary data to you.
 
-
 ## References:
 
 [Mumby DG, Pinel JPJ, Wood ER \(1990\). Nonrecurring-items delayed nonmatching-to-sample in rats: A new paradigm for testing nonspatial working memory. Psychobiology, 18\(3\): 321-326.](https://link.springer.com/article/10.3758/BF03327250)
@@ -55,4 +54,5 @@ Object recognition is a model of working memory. It is a useful model for unders
 
 [Mumby DG, Gaskin S, Glenn MJ, Schramek TE, Lehmann H \(2002\) Hippocampal damage and exploratory preferences in rats: memory for objects, places, and contexts. Learn Mem, 9\(2\):49-57.](https://www.ncbi.nlm.nih.gov/pubmed/11992015)
 
-[Mumby DG \(2005\) Object Recognition. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Mumby DG \(2005\) Object Recognition. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
+

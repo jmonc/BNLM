@@ -22,8 +22,9 @@ _Test:_ **Day 1:** 4-6 hours before the lab, remove the waterbottle from the rat
 
 [Parker, LA \(2003\) Taste avoidance and taste aversion: Evidence for two different processes. Learning & Behavior, 31\(2\):165-172.](https://www.ncbi.nlm.nih.gov/pubmed/12882375)
 
-[Spector AC \(2005\) Taste. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Spector AC \(2005\) Taste. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
 
 [Swank MW, Schafe GE, Bernstein IL \(1995\) c-Fos induction in response to taste stimuli previously paired with amphetamine or LiC1 during taste aversion learning. Brain Res, 673:251-261.](https://www.ncbi.nlm.nih.gov/pubmed/7606439)
 
 [Welzl H, D’Adamo P, Lipp H-P \(2001\) Conditioned taste aversion as a learning and memory paradigm. Behav Brain Res, 125:205–213.](https://www.ncbi.nlm.nih.gov/pubmed/11682112)
+

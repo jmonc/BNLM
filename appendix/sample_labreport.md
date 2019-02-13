@@ -89,5 +89,5 @@ Making a good figure is a bit of an art. If someone has a copy of your paper on 
 
 [Sarter M, Fritschy JM \(2008\) Reporting statistical methods and statistical results in EJN. Eur J Neurosci, 28\(12\): 2363-2364.](https://www.ncbi.nlm.nih.gov/pubmed/19087166)
 
-Strunk W and White EB \(2008\) _The Elements of Style: 50th Anniversary Edition._ Longman
+[Strunk W and White EB \(2008\) _The Elements of Style._](http://www.gutenberg.org/ebooks/37134)
 

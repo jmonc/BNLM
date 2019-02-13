@@ -26,13 +26,13 @@ _Variations:_
 
 * If the marble task does not elicit defensive burying, a different marble task can be used.  Place a number of marbles \(~15\) into a cage, evenly spaced, resting on the bedding.  Place the rat in the cage.  After 30 minutes, remove the rat and count how many marbles are buried.  Anxiolytic drugs suppress this burying behavior \(De Boer and Koolhaas, 2003\)
 
-
 ## References:
 
 [Crawley JN \(1985\) Exploratory behavior models of anxiety in mice. Neurosci Biobehav Rev 9\(1\):37-44.](https://www.ncbi.nlm.nih.gov/pubmed/2858080)
 
 [De Boer SF, Koolhaas JM \(2003\) Defensive burying in rodents: Ethology, neurobiology and psychopharmacology. Eur J Pharmacol, 463:145– 161.](https://www.ncbi.nlm.nih.gov/pubmed/12600707)
 
-[Metz GA, Kolb B, Whishaw IQ \(2005\) Neuropsychological tests. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Metz GA, Kolb B, Whishaw IQ \(2005\) Neuropsychological tests. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
 
-[Treit D, Pinel JJP \(2005\) Defensive Burying. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Treit D, Pinel JJP \(2005\) Defensive Burying. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
+

@@ -38,9 +38,9 @@ _Tests:_ **Food Handling**
 * Increase the difficulty by randomly pulling out 10 rungs \(never more than 2 adjacent rungs\) and compare the number of errors and time to cross to trials where no rungs are removed.
 * If this lab can be done over a number of days, compare the number and types of errors each day.
 
-
 ## References:
 
 [Kleim JA, Hogg TM, VandenBerg PM, Cooper NR, Bruneau R, Remple M \(2004\) Cortical synaptogenesis and motor map reorganization occur during late, but not early, phase of motor skill learning. _J Neurosci_, 24\(3\):628-33.](https://www.ncbi.nlm.nih.gov/pubmed/14736848)
 
-[Whishaw IQ \(2005\) Prehension. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Whishaw IQ \(2005\) Prehension. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
+

@@ -18,11 +18,11 @@ _Testing:_ Follow the procedures outlined in Laboratory Exercises C and D with y
 
 _Follow-up:_ In any surgical intervention, histological confirmation of the effectiveness to the surgery is important. Discuss with your TA opportunities for learning about histological procedures \(perfusion, tissue slicing and staining, microscopy\) that may be available. For this study, perfusion with formalin, tissue sectioning and a nissl stain such as cresyl violet would be appropriate histological procedures.
 
-
 ## References:
 
 [Howells DW, Porritt MJ, Rewell SS, O'Collins V, Sena ES, van der Worp HB, Traystman RJ, Macleod MR \(2010\) Different strokes for different folks: the rich diversity of animal models of focal cerebral ischemia. J Cereb Blood Flow Metab, 30\(8\):1412-31.](https://www.ncbi.nlm.nih.gov/pubmed/20485296)
 
-[Kolb B \(2005\) Neurological Models. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Kolb B \(2005\) Neurological Models. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
 
 [Whishaw IQ, Alaverdashvili M, Kolb B \(2008\) The problem of relating plasticity and skilled reaching after motor cortex stroke in the rat. Behav Brain Res, 192\(1\):124-36.](https://www.ncbi.nlm.nih.gov/pubmed/18282620)
+

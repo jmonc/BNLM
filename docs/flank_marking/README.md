@@ -23,7 +23,6 @@ _Variations:_
 
 _Follow-up:_ In any surgical intervention, histological confirmation of the effectiveness to the surgery is important. Discuss with your TA opportunities for learning about histological procedures \(perfusion, tissue slicing and staining, microscopy\) that may be available. For this study, perfusion with formalin, tissue sectioning and a nissl stain such as cresyl violet would be appropriate histological procedures.
 
-
 ## references
 
 [Bamshad M, Albers HE \(1996\) Neural circuitry controlling vasopressin-stimulated scent marking in Syrian hamsters \(Mesocricetus auratus\). J Comp Neurol, 369\(2\):252-63.](https://www.ncbi.nlm.nih.gov/pubmed/8726998)
@@ -31,3 +30,4 @@ _Follow-up:_ In any surgical intervention, histological confirmation of the effe
 [Ferris CF, Albers HE, Wesolowski SM, Goldman BD, Luman SE \(1984\) Vasopressin injected into the hypothalamus triggers a stereotypic behavior in golden hamsters. Science, 224\(4648\):521-3.](https://www.ncbi.nlm.nih.gov/pubmed/6538700)
 
 [Ferris CF, Rasmussen MF, Messenger T, Koppel G \(2001\) Vasopressin-dependent flank marking in golden hamsters is suppressed by drugs used in the treatment of obsessive-compulsive disorder. BMC Neurosci, 2:10](https://www.ncbi.nlm.nih.gov/pubmed/11545675)
+

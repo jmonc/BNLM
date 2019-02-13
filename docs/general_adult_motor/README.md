@@ -52,13 +52,15 @@ _Preparation:_ Read chapters 11, 13, 14 and 16 in the Behavior of the Laboratory
 * Place the rat in an open field for 5 minutes
 * Note the variety of behaviours exhibited, their sequence and durations.  These include thigmotaxis \(running along the wall\), head movements, rearing, and different patterns of limb movements.  Measure the amount of time spent in different regions of the open field.  Attempt to determine if the animal has established a home-base.
 
-
 ## References:
 
-[Aldridge JW \(2005\) Grooming. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+Note all below are chapters in the same text.
 
-[Golani I, Benjamini Y, Dvorkin A, Lipkind D, and Kafkafi N \(2005\) Locomotor and Exploratory Behavior. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Aldridge JW \(2005\) Grooming. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
 
-[Muir G \(2005\) Locomotion. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Golani I, Benjamini Y, Dvorkin A, Lipkind D, and Kafkafi N \(2005\) Locomotor and Exploratory Behavior. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
 
-[Pellis SM and Pellis VC \(2005\) Posture. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Muir G \(2005\) Locomotion. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
+
+[Pellis SM and Pellis VC \(2005\) Posture. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
+

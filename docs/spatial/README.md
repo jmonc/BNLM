@@ -23,13 +23,13 @@ _Test:_ **Watermaze** For the watermaze test, start the capture program, and mak
 
 Give you TA the data to collate.
 
-
 ## References:
 
 [Morris RGM \(1981\) Spatial localization does not require the presence of local cues. Learn Motiv, 12:239-260.](https://www.sciencedirect.com/science/article/pii/0023969081900205)
 
 [Poucet B, Chapuis N, Durup M, Thinus-Blanc C \(1986\) A study of exploratory behavior as an index of spatial knowledge in hamsters. Anim Learn Behav, 14:93-100.](https://link.springer.com/article/10.3758/BF03200043)
 
-[Save E, Poucet B \(2005\) Piloting. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Save E, Poucet B \(2005\) Piloting. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
 
-[Sutherland RJ and Dyck RH \(1984\). Place Navigation by Rats in a Swimming Pool, Can J Psychology, 38\(2\):322-347.](https://github.com/jmonc/BNLM/tree/21be773d73e188106d44b0c46178bffad0854bf7/docs/psycnet.apa.org/record/1985-11428-001/README.md)
+[Sutherland RJ and Dyck RH \(1984\). Place Navigation by Rats in a Swimming Pool, Can J Psychology, 38\(2\):322-347.](https://www.researchgate.net/profile/Richard_Dyck2/publication/230720868_Place_navigation_by_rats_in_a_swimming_pool/links/54f613c90cf2ca5efefdc4ad/Place-navigation-by-rats-in-a-swimming-pool.pdf)
+

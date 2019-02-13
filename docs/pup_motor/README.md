@@ -25,9 +25,9 @@ _Variations_
 
 * Mother rats could be treated with a drug during pregnancy to examine how prenatal exposure to such substances can alter pup development.
 
-
 ## References:
 
-[Alberts JR \(2005\) Infancy. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](http://www.sociallearning.info/storage/pdf/lab%20rat%20handbook%20-%20social%20learning.pdf)
+[Alberts JR \(2005\) Infancy. In: IQ Whishaw and B Kolb \(Eds\), _The behavior of the Laboratory rat: A handbook with tests._ Oxford University Press: Toronto.](https://www.researchgate.net/publication/255662684_The_Behavior_of_the_Laboratory_Rat)
 
 [Altman J, Sudarshan K \(1975\) Postnatal development of locomotion in the laboratory rat. Anim Behav, 23\(4\):896-920.](https://www.ncbi.nlm.nih.gov/pubmed/1200422)
+
