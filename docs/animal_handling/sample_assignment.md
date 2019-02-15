@@ -1,4 +1,4 @@
-# A. 2. Small Assignment
+# A. 2. Brief Assignment
 
 ### Brief Assignment \#1 – Animal Handling
 
