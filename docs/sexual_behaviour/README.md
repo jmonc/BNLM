@@ -1,15 +1,15 @@
-# B - Sexual Behavior
+# B - Sexual Behaviour
 
 ## Objectives:
 
-* To describe appetitive/proceptive behaviors in the male and female rat
-* To describe the sequential components of both male and female copulatory behavior
+* To describe appetitive/proceptive behaviours in the male and female rat
+* To describe the sequential components of both male and female copulatory behaviour
 * To quantify a lordosis quotient
 * To quantify paced mating
 
 ## Introduction:
 
-Being a careful observer of behavior is essential to being a skilled behavioral neuroscientist. Changes to the nervous system may only produce small changes in behavior, and therefore it is important to develop skills and techniques to quantify behavior so that these small changes can be detected. A good behavior to start with is sexual behavior, as it is highly stereotyped. Sexual behavior is essential for the survival of a species, and requires careful coordination of both endocrine activity and behavior; each of which is controlled by the nervous system. In this lab you will learn to describe appetitive/proceptive behaviors that precede copulation. You will also learn to describe the very stereotyped components of both male \(mounting, intromission, ejaculation\) and female copulatory behavior \(lordosis\).
+Being a careful observer of behaviour is essential to being a skilled behavioural neuroscientist. Changes to the nervous system may only produce small changes in behaviour, and therefore it is important to develop skills and techniques to quantify behaviour so that these small changes can be detected. A good behaviour to start with is sexual behaviour, as it is highly stereotyped. Sexual behaviour is essential for the survival of a species, and requires careful coordination of both endocrine activity and behaviour; each of which is controlled by the nervous system. In this lab you will learn to describe appetitive/proceptive behaviours that precede copulation. You will also learn to describe the very stereotyped components of both male \(mounting, intromission, ejaculation\) and female copulatory behaviour \(lordosis\).
 
 ## Procedure:
 

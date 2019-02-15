@@ -6,7 +6,7 @@
   * [A - Animal Handling](docs/animal_handling/README.md)
     * [A. 1. Homework](docs/animal_handling/homework.md)
     * [A. 2. Brief Assignment](docs/animal_handling/sample_assignment.md)
-  * [B - Sexual Behavior](docs/sexual_behaviour/README.md)
+  * [B - Sexual Behaviour](docs/sexual_behaviour/README.md)
     * [B. 1. Homework](docs/sexual_behaviour/homework.md)
   * [C - General Adult Motor Behavior](docs/general_adult_motor/README.md)
     * [C. 1. Homework](docs/general_adult_motor/homework.md)
