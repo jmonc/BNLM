@@ -12,7 +12,7 @@
     * [C. 1. Homework](docs/general_adult_motor/homework.md)
   * [D - Skilled Adult Motor Behavior](docs/skilled_adult_motor/README.md)
     * [D. 1. Homework](docs/skilled_adult_motor/homework.md)
-  * [E - Maternal Behavior](docs/maternal_behaviour/README.md)
+  * [E - Maternal Behaviour](docs/maternal_behaviour/README.md)
     * [E. 1. Homework](docs/maternal_behaviour/homework.md)
     * [E. 2. Small assignment](docs/maternal_behaviour/sample_assignment.md)
   * [F - Pup Motor Development](docs/pup_motor/README.md)
