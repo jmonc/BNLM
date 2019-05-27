@@ -2,13 +2,13 @@
 
 ## Welcome
 
-This is an open access project from the University of Calgary, aiming to provide the resources collected from the PSYC 478 behavioural neuroscience course to students and instructors around the world.
+This is an open access project created at the University of Calgary, with the goal of providing an online resource for a senior-level behavioural neuroscience laboratory course \(PSYC 478\). Included in the document are a number of laboratory activities and suggested student assessments.
+
+The authors are indebted to those that have contributed to and provided feedback on several versions of the laboratory manual. Specifically we would like to acknowledge Dr. Brooke Rakai and Dr. Cam Teskey for their contributions. Funding for this work was provided by a University of Calgary Teaching and Learning Grant.
 
 ## Introduction
 
-
-
-The laboratory exercises provide an introduction to experimental approaches, neural mechanisms, and the health implications from neurological behaviour. 
+The behavioural neuroscience laboratory manual is very much a working document. Our aim is to provide an online resource comprised of suggested laboratory activities, each of which includes relevant background information, access to online resources, and clearly defined class learning outcomes. Alongside each activity are suggested student assignments and detailed rubrics outlining expectations and assessment approaches. Each laboratory exists independently such that users can select the modules that best align with their course offering. As an open access document, our laboratory manual allows users to suggest/update educational materials, assuring that course content and student assessment techniques remain current with best pedagogical practices. 
 
 Currently, the content introduces new students to animal handling for mice, before covering both normal and abnormal behaviour. After each lab, suggested homework is provided. In depth lab report assignments are also provided. 
 
