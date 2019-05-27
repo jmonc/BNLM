@@ -10,7 +10,7 @@ The authors are indebted to those that have contributed to and provided feedback
 
 The behavioural neuroscience laboratory manual is very much a working document. Our aim is to provide an online resource comprised of suggested laboratory activities, each of which includes relevant background information, access to online resources, and clearly defined class learning outcomes. Alongside each activity are suggested student assignments and detailed rubrics outlining expectations and assessment approaches. Each laboratory exists independently such that users can select the modules that best align with their course offering. As an open access document, our laboratory manual allows users to suggest/update educational materials, assuring that course content and student assessment techniques remain current with best pedagogical practices. 
 
-Currently, the content introduces new students to animal handling for mice, before covering both normal and abnormal behaviour. After each lab, suggested homework is provided. In depth lab report assignments are also provided. 
+In its current iteration the behavioural neuroscience manual is focused on exposing students to rodent behaviour \(specifically the Sprague Dawley rat\). Major themes include movement, learning and memory, fear and anxiety, mating and maternal behaviour, and several pathological states such as stroke and Parkinson’s disease.
 
 Finally guides to writing manuscript-style lab reports, scoring rubrics and guides to surgeries are included  in the appendix.
 
