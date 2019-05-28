@@ -22,3 +22,5 @@ All files are maintained on [GitHub](https://github.com/jmonc/BNLM), and this on
 
 In the mean time, the repository on GitHub has the full pdf. format of this work as well as the master word document. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+## People
+
