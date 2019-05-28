@@ -14,6 +14,8 @@ In its current iteration the behavioural neuroscience manual is focused on an ex
 
 Each laboratory activity includes clearly stated learning outcomes, an introduction designed to provide background information and context, and a detailed list of relevant procedures. Where possible supplementary material has been made available in the form of embedded videos or links to additional online resources.
 
+Paired with laboratory activities are a variety of suggested assessments; these range from two to three page brief assignments to full-length laboratory reports. Included with each assessment is a rubric that clearly outlines grading breakdown.
+
 Finally guides to writing manuscript-style lab reports, scoring rubrics and guides to surgeries are included  in the appendix.
 
 
