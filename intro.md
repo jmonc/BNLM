@@ -1,6 +1,6 @@
 # Behavioural Neuroscience Lab Manual
 
-## Welcome
+## Welcome!
 
 This is an open access project created at the University of Calgary, with the goal of providing an online resource for a senior-level behavioural neuroscience laboratory course \(PSYC 478\). Included in the document are a number of laboratory activities and suggested student assessments.
 
