@@ -16,17 +16,9 @@ Each laboratory activity includes clearly stated learning outcomes, an introduct
 
 Paired with laboratory activities are a variety of suggested assessments; these range from two to three page brief assignments to full-length laboratory reports. Included with each assessment is a rubric that clearly outlines grading breakdown.
 
-Finally guides to writing manuscript-style lab reports, scoring rubrics and guides to surgeries are included  in the appendix.
+An in-depth appendix includes information relevant to the course \(detailed surgical procedures\), as well as an example laboratory report rubric, and an article discussing how to approach a manuscript-style lab report.
 
+All files are maintained on [GitHub](https://github.com/jmonc/BNLM), and this online manual is generated using [GitBook](https://www.gitbook.com). Gitbook provides easy access and edit-ability to our content. Stay tuned for future updates!
 
-
-This is the initial structure, but we hope to increase both the scope and resources provided.
-
-All files are maintained on [GitHub](https://github.com/jmonc/BNLM). This online manual is generated using [GitBook](https://www.gitbook.com). Gitbook provides easy access and edit-ability to the content. In future updates, easy to use download links will be provided so that individual chapter pdfs and modifiable .doc files may be accessed.
-
-In the mean time, the repository on GitHub has the full pdf format of this work as well as the master word document. Simply follow the following link and follow the instructions to access this information.
-
-
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+In the mean time, the repository on GitHub has the full pdf. format of this work as well as the master word document. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
