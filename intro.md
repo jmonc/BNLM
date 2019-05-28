@@ -12,7 +12,11 @@ The behavioural neuroscience laboratory manual is very much a working document. 
 
 In its current iteration the behavioural neuroscience manual is focused on exposing students to rodent behaviour \(specifically the Sprague Dawley rat\). Major themes include movement, learning and memory, fear and anxiety, mating and maternal behaviour, and several pathological states such as stroke and Parkinson’s disease.
 
+Each laboratory activity includes clearly stated learning outcomes, an introduction designed to provide background information and context, and a detailed list of relevant procedures.
+
 Finally guides to writing manuscript-style lab reports, scoring rubrics and guides to surgeries are included  in the appendix.
+
+
 
 This is the initial structure, but we hope to increase both the scope and resources provided.
 
