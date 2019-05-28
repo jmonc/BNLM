@@ -24,3 +24,9 @@ In the mean time, the repository on GitHub has the full pdf. format of this work
 
 ## People
 
+Simon Spanswick
+
+James Moncreiff
+
+Mike Antle
+
