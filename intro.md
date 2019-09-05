@@ -24,7 +24,7 @@ In the mean time, the repository on GitHub has the full pdf. format of this work
 
 ## People
 
-Simon Spanswick
+[Simon Spanswick](https://hbi.ucalgary.ca/profiles/dr-simon-spanswick) is currently an Instructor in the Department of Psychology at the University of Calgary, and enjoys torturing students with his neuroscience lectures. He has been teaching a version of Behavioural Neuroscience at the U of C for the last 4 years. In addition to his role as an Instructor, he can be found gallivanting around the foothills of the Rocky Mountains on his bicycle.
 
 James Moncreiff
 

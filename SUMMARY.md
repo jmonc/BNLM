@@ -14,7 +14,7 @@
     * [D. 1. Homework](docs/skilled_adult_motor/homework.md)
   * [E - Maternal Behaviour](docs/maternal_behaviour/README.md)
     * [E. 1. Homework](docs/maternal_behaviour/homework.md)
-    * [E. 2. Small assignment](docs/maternal_behaviour/sample_assignment.md)
+    * [E. 2. Brief assignment](docs/maternal_behaviour/sample_assignment.md)
   * [F - Pup Motor Development](docs/pup_motor/README.md)
     * [F. 1. Homework](docs/pup_motor/homework.md)
   * [G1 - Movement Disorders: Stroke](docs/movement_disorders_stroke/README.md)

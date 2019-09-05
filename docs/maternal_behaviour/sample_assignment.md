@@ -1,4 +1,4 @@
-# E. 2. Small assignment
+# E. 2. Brief assignment
 
 ### Brief Assignment \#2 – Maternal Behaviour
 
