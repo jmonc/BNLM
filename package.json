@@ -6,6 +6,6 @@
   "dependencies": {
     "gitbook-plugin-bibtex-citations-and-references": "^0.10.4",
     "gitbook-plugin-downloadpdf": "^1.0.3",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.19"
   }
 }
